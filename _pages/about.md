@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a statistical geneticist in the Psychiatric Genetics group at QIMR Berghofer in Brisbane, Australia. I'm a molecular biologist by training, and my research is underpinned by a strong foundation in statistical genetic methodologies used in complex trait analysis. 
+Welcome! Please note this webpage is not complete and is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) .
+
+I'm a statistical geneticist in the Psychiatric Genetics group at QIMR Berghofer in Brisbane, Australia. I'm a molecular biologist by training, and my research is underpinned by a strong foundation in statistical genetic methodologies used in complex trait analysis. 
 
 My primary research interest focuses on dissecting the genetic etiology of substance use and addictive behaviors such as disordered gambling. During my research career I have transitioned from being based in a wet-lab to a dry lab. As such, I have expertise both in conducting high-through put genetic studies and also in the analysis of large-scale genetic and phenotypic datasets. I also have broad experience in recruiting new study cohorts in collaboration with the Services Australia (formerly the Australian Department of Human Services), including the [ClozaGene Study](https://doi.org/10.1093/schbul/sbae065), [Australian Genetics of Bipolar Disorder Study](https://doi.org/10.1177/00048674231195571) and [censusADHD Study](https://doi.org/10.1177/00048674221089234) cohorts. 
 
