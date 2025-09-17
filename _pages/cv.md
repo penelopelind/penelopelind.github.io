@@ -16,6 +16,7 @@ Education
   * Post-doctoral Fellow at the Ernest Gallo Clinic and Research Center, Neurology Department at the University of California, San Francisco, Emeryville, CA 94608, USA
  
 * Graduate:
+  * Graduate Diploma in Education (Senior Years) with Distinction (Science Education - Biology Extension), Queensland University of Technology, Australia. 
   * Ph.D in Biological Sciences, University of Waikato, New Zealand. Dissertation Title: ‘Comparative Characterization of Esterases and Lipases for Biosensors’. 
 
 * Undergraduate:
@@ -37,10 +38,10 @@ Adjunct/Honorary Appointments
 
 Other Current Appointments/Roles
 ======
-* 2025–present: Member, Ally Network, The University of Queensland, Brisbane, Australia
+* 2025–present: Member, LGBTIQA+ Ally Network, The University of Queensland, Brisbane, Australia
 * 2023–present:	Member, Consumer and Community Involvement Working Group, QIMR Berghofer Medical Research Institute
 * 2022–present:	Accredited Mental Health First Aider, University of Queensland, Brisbane, Australia
-* 2022–present:	Member, LGBTIQ Ally Network, Queensland University of Technology, Brisbane, Australia
+* 2022–present:	Member, LGBTIQA+ Ally Network, Queensland University of Technology, Brisbane, Australia
 * 2022–present:	Member, Data Governance Working Group, QIMR Berghofer Medical Research Institute 
 * 2022–present:	Research Integrity Advisor, QIMR Berghofer Medical Research Institute 
 * 2021–present:	RO/SRO Representative, Staff Association Executive, QIMR Berghofer Medical Research Institute
@@ -68,9 +69,9 @@ Ongoing Research Support
 Completed Research Support
 ======
 * APP1138514, National Health and Medical Research Council of Australia; 01/01/18-12/30/22 ($1,840,594)
- * CIA: Medland, Sarah, My role: Associate Investigator
- * Title: Leveraging record linkage for single-indication medications to boost recruitment in Psychiatric and Pharmaco-Genetics.
- * The goal of this project is to recruit, phenotype and genotype individuals who have been prescribed Clozapine and Lithium Carbonate which are single-indication medications for Schizophrenia and Bipolar Disorder. Through our collaborations with the Psychiatric Genomic Consortium, we will significantly advance our understanding of the genetics of these disorders.
+  * CIA: Medland, Sarah, My role: Associate Investigator
+  * Title: Leveraging record linkage for single-indication medications to boost recruitment in Psychiatric and Pharmaco-Genetics.
+  * The goal of this project is to recruit, phenotype and genotype individuals who have been prescribed Clozapine and Lithium Carbonate which are single-indication medications for Schizophrenia and Bipolar Disorder. Through our collaborations with the Psychiatric Genomic Consortium, we will significantly advance our understanding of the genetics of these disorders.
 
 * Queensland State Government (Queensland Health); 01/12/2020-30/11/2021 ($246,043)
   * PI: Colodro-Conde, Lucia, My role: co-Chief Investigator.	
