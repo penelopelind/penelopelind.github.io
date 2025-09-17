@@ -11,23 +11,23 @@ redirect_from:
 
 Education
 ======
-* <ul>Postgraduate</ul>:
+* **Postgraduate**:
   * Post-doctoral Fellow in the Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA
   * Post-doctoral Fellow at the Ernest Gallo Clinic and Research Center, Neurology Department at the University of California, San Francisco, Emeryville, CA 94608, USA
  
-* <ul>Graduate</ul>:
+* **Graduate**:
   * Graduate Diploma in Education (Senior Years) with Distinction (Science Education - Biology Extension), Queensland University of Technology, Australia. 
   * Ph.D in Biological Sciences, University of Waikato, New Zealand. Dissertation Title: '<em>Comparative Characterization of Esterases and Lipases for Biosensors</em>. 
 
-* <ul>Undergraduate</ul>:
+* **Undergraduate**:
   * First Class Bachelor of Science with Honors in Biochemistry, Victoria University of Wellington, New Zealand
   * Bachelor of Science (BSc) in Genetics & Molecular Biology and Biochemistry, Victoria University of Wellington, New Zealand
 
 Primary Appointment
 ======
-* <ul>2016-present</ul>: Senior Research Officer
+* **2016-present**: Senior Research Officer
   * Psychiatric Genetics Group, QIMR Berghofer, Brisbane, Australia
-* <ul>2005-2016</ul>: Research Officer
+* **2005-2016**: Research Officer
   * Psychiatric Genetics Group, QIMR Berghofer, Brisbane, Australia
 
 Adjunct/Honorary Appointments
@@ -134,18 +134,18 @@ Service and leadership
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  **{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}**
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
+  **{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}**
   
 Teaching and Supervision
 ======
-  <ul>{% for post in site.teaching reversed %}
+  **{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}**
