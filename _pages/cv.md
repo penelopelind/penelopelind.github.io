@@ -110,6 +110,28 @@ Completed Research Support
 * Alcohol and Health Research Grants Scheme (Australia) 	01/01/08-12/30/08 ($35,000)
   * PI: Lind, Penelope
   * Title: Genetics of alcohol and nicotine addiction.
+ 
+Service and leadership
+======
+* 2025-present Co-Chair, Gambling Working Group, Psychiatric Genomics Consortium.
+* 2024-present Primary Analyst, Genetics Working Group, Enhancing Neuro Imaging Genetics through Meta-Analysis Consortium.
+* 2022-present Member, Meta-analysis and Phenotypic Working Groups, Musicality Genetics Consortium.
+* 2022-present Member, Analysis Group, Bipolar Disorder Working Group, Psychiatric Genomics Consortium.
+* 2021-present Member, Analysis Group, Genetics of Osteoarthritis Consortium.
+* 2017-present Member, Genetics Working Group, Enhancing Neuro Imaging Genetics through Meta-Analysis Consortium.
+* 2017-present Member, Major Depressive Disorder Working Group, Psychiatric Genomics Consortium.
+* 2014-present Member, GWAS and Sequencing Consortium of Alcohol and Nicotine Use.
+* 2013-present Member, Substance Use Disorder Working Group, Psychiatric Genomics Consortium.
+* 2018-present Membership Committee, International Society for Biomedical Research on Alcoholism.
+* 2024 Organising Committee, Seventh QIMR Berghofer Post-Doctoral Forum (October 7, Brisbane, Australia)
+* 2022 Organising Committee, Sixth QIMR Berghofer Post-Doctoral Forum (October 7, Brisbane, Australia)
+* 2021 Local Organising Committee, Annual Meeting, 15th GeneMappers Conference (Brisbane, Australia)
+* 2021 Organising Committee, Fifth QIMR Berghofer Post-Doctoral Forum (June 25, Brisbane, Australia)
+* 2019 Organising Committee, Fourth QIMR Berghofer Post-Doctoral Forum (31 May, Brisbane, Australia)
+* 2016 Local Organising Committee, Annual Meeting, Behavior Genetics Association (Brisbane, Australia)
+* 2016 Local Host, Satellite Meeting, International Society of Twin Studies (Brisbane, Australia)
+* 2015 Queensland Gala Dinner Sub-committee, Australian Society for Medical Research
+* 2014–15	Queensland Committee, Australian Society for Medical Research
 
 Publications
 ======
@@ -128,7 +150,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
