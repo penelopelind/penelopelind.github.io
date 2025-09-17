@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* <ul>Postgraduate</ul>:
+* <ul>{Postgraduate}</ul>:
   * Post-doctoral Fellow in the Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA
   * Post-doctoral Fellow at the Ernest Gallo Clinic and Research Center, Neurology Department at the University of California, San Francisco, Emeryville, CA 94608, USA
  
@@ -138,8 +138,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
- Talks
- ======
+Talks
+======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
