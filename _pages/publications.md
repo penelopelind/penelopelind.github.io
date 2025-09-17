@@ -2,7 +2,7 @@
 title: "Publications"
 author_profile: true
 permalink: /publications/
-layout: page
+layout: archive
 ---
 
 {% include base_path %}
