@@ -11,21 +11,22 @@ layout: archive
 
 {% include base_path %}
 
-======
+
+
 
 Journal Articles
 ======
-* van der Veen T, Tesfaye M, Yang JMK, et al. (2025) *Immune, Developmental, and Synaptic Pathways Define Bipolar Disorder Clinical Heterogeneity*. **medRxiv**, , doi:10.1101/2025.6.23.25330155
+* van der Veen T, Tesfaye M, Yang JMK, et al. (2025) *Immune, Developmental, and Synaptic Pathways Define Bipolar Disorder Clinical Heterogeneity*. **medRxiv**, doi:10.1101/2025.6.23.25330155
 * Sepulveda DT, Thorp JG, Lind PA, Martin NG, Medland SE, Mitchell BL. (2025) *Exploring the Relationship between Polygenic Scores, Community-Shared Socioeconomic Indicators and Major Depressive Disorder Outcome*. **Twin Res Hum Genet**, 1-9, doi:10.1017/thg.2025.10011
 * O'Connell KS, Koromina M, van der Veen T, et al. (2025) *Genomics yields biological and phenotypic insights into bipolar disorder*. **Nature**, , doi:10.1038/s41586-024-08468-9
 * Lind PA, Parker RK, Northwood K, Siskind DJ, Medland SE. (2025) *Clozapine Efficacy and Adverse Drug Reactions Among a Nationwide Study of 1021 Australians Prescribed Clozapine: The ClozaGene Study*. **Schizophr Bull**, 51(2):458-469, doi:10.1093/schbul/sbae065
-* Johnson EC, Lai D, Miller AP, et al. (2025) *Multi-ancestral genome-wide association study of clinically defined nicotine dependence reveals strong genetic correlations with other substance use disorders and health-related traits*. **medRxiv**, , doi:10.1101/2025.1.29.25320962
+* Johnson EC, Lai D, Miller AP, et al. (2025) *Multi-ancestral genome-wide association study of clinically defined nicotine dependence reveals strong genetic correlations with other substance use disorders and health-related traits*. **medRxiv**, doi:10.1101/2025.1.29.25320962
 * Hatzikotoulas K, Southam L, Stefansdottir L, et al. (2025) *Translational genomics of osteoarthritis in 1,962,069 individuals*. **Nature**, 641(8065):1217-1224, doi:10.1038/s41586-025-08771-z
 * MDD Working Group et al. (2025) *Trans-ancestry genome-wide study of depression identifies 697 associations implicating cell types and pharmacotherapies*. **Cell**, , doi:10.1016/j.cell.2024.12.2
 * Shin M, Crouse JJ, Byrne EM, et al. (2024) *Changes in sleep patterns in people with a history of depression during the COVID-19 pandemic: a natural experiment*. **BMJ Ment Health**, 27(1), doi:10.1136/bmjment-2024-301067
 * Monistrol-Mula A, Felez-Nobrega M, Byrne EM, et al. (2024) *The effect of polygenic liability to mental disorders on COVID-19 outcomes in people with depression: the mediating role of anxiety*. **Psychol Med**, 54(15):1-10, doi:10.1017/s0033291724001983
 * Kentistou KA, Kaisinger LR, Stankovic S, et al. (2024) *Understanding the genetic complexity of puberty timing across the allele frequency spectrum*. **Nat Genet**, 56(7):1397-1411, doi:10.1038/s41588-024-01798-4
-* Boltz TA, Chu BB, Liao C, et al. (2024) *A blended genome and exome sequencing method captures genetic variation in an unbiased, high-quality, and cost-effective manner*. **bioRxiv**, , doi:10.1101/2024.9.6.611689
+* Boltz TA, Chu BB, Liao C, et al. (2024) *A blended genome and exome sequencing method captures genetic variation in an unbiased, high-quality, and cost-effective manner*. **bioRxiv**, doi:10.1101/2024.9.6.611689
 * Zhou H, Kember RL, Deak JD, et al. (2023) *Multi-ancestry study of the genetics of problematic alcohol use in over 1 million individuals*. **Nat Med**, 29(12):3184-3192, doi:10.1038/s41591-023-02653-5
 * Wang X, Walker A, Revez JA, et al. (2023) *Polygenic risk prediction: why and when out-of-sample prediction R(2) can exceed SNP-based heritability*. **Am J Hum Genet**, 110(7):1207-1215, doi:10.1016/j.ajhg.2023.6.6
 * Mathieson I, Day FR, Barban N, et al. (2023) *Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus*. **Nat Hum Behav**, 7(5):790-801, doi:10.1038/s41562-023-01528-6
@@ -34,7 +35,7 @@ Journal Articles
 * Howe LJ, Rasheed H, Jones PR, et al. (2023) *Educational attainment, health outcomes and mortality: a within-sibship Mendelian randomization study*. **Int J Epidemiol**, 52(5):1579-1591, doi:10.1093/ije/dyad079
 * Gomez L, DÃ­az-Torres S, Colodro-Conde L, et al. (2023) *Phenotypic and genetic factors associated with donation of DNA and consent to record linkage for prescription history in the Australian Genetics of Depression Study*. **Eur Arch Psychiatry Clin Neurosci**, 273(6):1359-1368, doi:10.1007/s00406-022-01527-0
 * Garcia-Marin LM, Mulcahy A, Byrne EM, et al. (2023) *Discontinuation of antidepressant treatment: a retrospective cohort study on more than 20,000 participants*. **Ann Gen Psychiatry**, 22(1):49, doi:10.1186/s12991-023-00480-z
-* Couvy-Duchesne B, Bottani S, Camenen E, et al. (2023) *Main Existing Datasets for Open Brain Research on Humans*. **In: Machine Learning for Brain Disorders, edited by O. Colliot**, 753-804, 
+* Couvy-Duchesne B, Bottani S, Camenen E, et al. (2023) *Main Existing Datasets for Open Brain Research on Humans*. **In: Machine Learning for Brain Disorders**, edited by O. Colliot, 753-804, 
 * Wang Z, Emmerich A, Pillon NJ, et al. (2022) *Genome-wide association analyses of physical activity and sedentary behavior provide insights into underlying mechanisms and roles in disease prevention*. **Nat Genet**, 54(9):1332-1344, doi:10.1038/s41588-022-01165-1
 * Saunders GRB, Wang X, Chen F, et al. (2022) *Genetic diversity fuels gene discovery for tobacco and alcohol use*. **Nature**, 612(7941):720-724, doi:10.1038/s41586-022-05477-4
 * Pain O, Hodgson K, Trubetskoy V, et al. (2022) *Identifying the Common Genetic Basis of Antidepressant Response*. **Biol Psychiatry Glob Open Sci**, 2(2):115-126, doi:10.1016/j.bpsgos.2021.7.8
