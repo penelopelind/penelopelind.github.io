@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Associate Professor Penelope Lind"
+title                    : "Associate Professor Penelope A Lind"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,12 +23,12 @@ repository               : "penelopelind/penelopelind.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "headshot.jpg"
+  name             : "Penelope A Lind"
+  pronouns         :  "she/her"  
+  bio              : "Senior Researcher in the Psychiatric Genetics Group at QIMR Berghofer"
+  location         : "Brisbane, Queensland, Australia"
+  employer         : "QIMR Berghofer"
   uri              : # URL
   email            : "none@example.org" 
 
