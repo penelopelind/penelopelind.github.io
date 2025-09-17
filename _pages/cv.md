@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Primary Appointment
+======
+* **2016-present**: Senior Research Officer
+  * Psychiatric Genetics Group, QIMR Berghofer, Brisbane, Australia
+* **2005-2016**: Research Officer
+  * Psychiatric Genetics Group, QIMR Berghofer, Brisbane, Australia
+  
 Education
 ======
 * **Postgraduate**:
@@ -22,13 +29,6 @@ Education
 * **Undergraduate**:
   * First Class Bachelor of Science with Honors in Biochemistry, Victoria University of Wellington, New Zealand
   * Bachelor of Science (BSc) in Genetics & Molecular Biology and Biochemistry, Victoria University of Wellington, New Zealand
-
-Primary Appointment
-======
-* **2016-present**: Senior Research Officer
-  * Psychiatric Genetics Group, QIMR Berghofer, Brisbane, Australia
-* **2005-2016**: Research Officer
-  * Psychiatric Genetics Group, QIMR Berghofer, Brisbane, Australia
 
 Adjunct/Honorary Appointments
 ======
