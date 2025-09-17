@@ -26,7 +26,7 @@ author:
   avatar           : "headshot.jpg"
   name             : "Penelope A Lind, PhD"
   pronouns         :  "she/her/hers"  
-  bio              : "Assocaite Professor in Psychiatric Genetics at QIMR Berghofer | Statistical Geneticist"
+  bio              : "Associate Professor in Psychiatric Genetics at QIMR Berghofer | Statistical Geneticist"
   location         : "Brisbane, Queensland, Australia"
   employer         : "QIMR Berghofer"
   # uri              : # URL
@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
+  orcid            : "http://orcid.org/0000-0002-3887-2598"
   googlescholar    : "https://scholar.google.com/citations?user=YYZg4bsAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0002-3887-2598"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/penelope.lind.1/bibliography/public/"
   researchgate     : # URL
@@ -54,16 +54,16 @@ author:
 
   # Social media
   artstation       : # Username
+  linkedin         : "penelope-lind-56319730"
   bluesky          : "penelopelind" # Replace this with you Bluesky username
+  instagram        : "drtupps"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
   lastfm           : # Username
-  linkedin         : "penelope-lind-56319730"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
