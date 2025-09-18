@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: "About Me"
+title: "Birding and Bird Art"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /birds/
+layout: archive
 ---
 
 Welcome! Please note this webpage is under construction and is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io).
