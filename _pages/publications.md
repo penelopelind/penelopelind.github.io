@@ -144,9 +144,10 @@ layout: archive
 * Lind PA, Daniel RM, Monk C, Dunn RV. (2004) *Esterase catalysis of substrate vapour: enzyme activity occurs at very low hydration*. **Biochim Biophys Acta**, 1702(1):103-10, [doi:10.1016/j.bbapap.2004.8.5](https://doi.org/10.1016/j.bbapap.2004.8.5)
 
 ---
-<span style="font-size:1.5em;"><u><strong>Book Chapters</u></strong></span>
+<span style="font-size:1.5em;"><strong><u>Book Chapters</u></strong></span>
 * Couvy-Duchesne B, Bottani S, Camenen E, et al. (2023) **Main Existing Datasets for Open Brain Research on Humans**. In _Machine Learning for Brain Disorders, edited by O. Colliot_, 753-804
 
 ---
-<span style="font-size:1.5em;"><u><strong>Conference Presentations</u></strong></span>
+<span style="font-size:1.5em;"><strong><u>Conference Presentations</u></strong></span>
+
 
