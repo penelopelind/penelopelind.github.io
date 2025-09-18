@@ -10,10 +10,7 @@ layout: archive
 {% endif %}
 
 {% include base_path %}
-
-
-
-
+<br>
 Journal Articles
 ======
 * van der Veen T, Tesfaye M, Yang JMK, et al. (2025) *Immune, Developmental, and Synaptic Pathways Define Bipolar Disorder Clinical Heterogeneity*. **medRxiv**, doi:10.1101/2025.6.23.25330155
