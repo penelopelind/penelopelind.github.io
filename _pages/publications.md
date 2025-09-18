@@ -15,11 +15,11 @@ Journal Articles
 ======
 * van der Veen T, Tesfaye M, Yang JMK, et al. (2025) *Immune, Developmental, and Synaptic Pathways Define Bipolar Disorder Clinical Heterogeneity*. **medRxiv**, doi:10.1101/2025.6.23.25330155
 * Sepulveda DT, Thorp JG, Lind PA, Martin NG, Medland SE, Mitchell BL. (2025) *Exploring the Relationship between Polygenic Scores, Community-Shared Socioeconomic Indicators and Major Depressive Disorder Outcome*. **Twin Res Hum Genet**, 1-9, doi:10.1017/thg.2025.10011
-* O'Connell KS, Koromina M, van der Veen T, et al. (2025) *Genomics yields biological and phenotypic insights into bipolar disorder*. **Nature**, , doi:10.1038/s41586-024-08468-9
+* O'Connell KS, Koromina M, van der Veen T, et al. (2025) *Genomics yields biological and phenotypic insights into bipolar disorder*. **Nature**, doi:10.1038/s41586-024-08468-9
 * Lind PA, Parker RK, Northwood K, Siskind DJ, Medland SE. (2025) *Clozapine Efficacy and Adverse Drug Reactions Among a Nationwide Study of 1021 Australians Prescribed Clozapine: The ClozaGene Study*. **Schizophr Bull**, 51(2):458-469, doi:10.1093/schbul/sbae065
 * Johnson EC, Lai D, Miller AP, et al. (2025) *Multi-ancestral genome-wide association study of clinically defined nicotine dependence reveals strong genetic correlations with other substance use disorders and health-related traits*. **medRxiv**, doi:10.1101/2025.1.29.25320962
 * Hatzikotoulas K, Southam L, Stefansdottir L, et al. (2025) *Translational genomics of osteoarthritis in 1,962,069 individuals*. **Nature**, 641(8065):1217-1224, doi:10.1038/s41586-025-08771-z
-* MDD Working Group et al. (2025) *Trans-ancestry genome-wide study of depression identifies 697 associations implicating cell types and pharmacotherapies*. **Cell**, , doi:10.1016/j.cell.2024.12.2
+* MDD Working Group et al. (2025) *Trans-ancestry genome-wide study of depression identifies 697 associations implicating cell types and pharmacotherapies*. **Cell**, doi:10.1016/j.cell.2024.12.2
 * Shin M, Crouse JJ, Byrne EM, et al. (2024) *Changes in sleep patterns in people with a history of depression during the COVID-19 pandemic: a natural experiment*. **BMJ Ment Health**, 27(1), doi:10.1136/bmjment-2024-301067
 * Monistrol-Mula A, Felez-Nobrega M, Byrne EM, et al. (2024) *The effect of polygenic liability to mental disorders on COVID-19 outcomes in people with depression: the mediating role of anxiety*. **Psychol Med**, 54(15):1-10, doi:10.1017/s0033291724001983
 * Kentistou KA, Kaisinger LR, Stankovic S, et al. (2024) *Understanding the genetic complexity of puberty timing across the allele frequency spectrum*. **Nat Genet**, 56(7):1397-1411, doi:10.1038/s41588-024-01798-4
