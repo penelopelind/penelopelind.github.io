@@ -16,7 +16,7 @@ My publication record to includes 130 peer reviewed publications with >18,000 ci
 
 ---
 <span style="font-size:1.5em;"><strong><u>Journal Articles</u></strong></span>
-* van der Veen T, Tesfaye M, Yang JMK, et al. (2025) *Immune, Developmental, and Synaptic Pathways Define Bipolar Disorder Clinical Heterogeneity*. **medRxiv**, [doi:10.1101/2025.6.23.25330155](https://doi.org/10.1101/2025.6.23.25330155)
+* van der Veen T, Tesfaye M, Yang JMK, et al. (2025) *Immune, Developmental, and Synaptic Pathways Define Bipolar Disorder Clinical Heterogeneity*. **medRxiv**, [doi:10.1101/2025.06.23.25330155](https://doi.org/10.1101/2025.6.23.25330155)
 * Sepulveda DT, Thorp JG, <u>Lind PA</u>, Martin NG, Medland SE, Mitchell BL. (2025) *Exploring the Relationship between Polygenic Scores, Community-Shared Socioeconomic Indicators and Major Depressive Disorder Outcome*. **Twin Res Hum Genet**, 1-9, [doi:10.1017/thg.2025.10011](https://doi.org/10.1017/thg.2025.10011)
 * O'Connell KS, Koromina M, van der Veen T, et al. (2025) *Genomics yields biological and phenotypic insights into bipolar disorder*. **Nature**, [doi:10.1038/s41586-024-08468-9](https://doi.org/10.1038/s41586-024-08468-9)
 * <u>Lind PA</u>, Parker RK, Northwood K, Siskind DJ, Medland SE. (2025) *Clozapine Efficacy and Adverse Drug Reactions Among a Nationwide Study of 1021 Australians Prescribed Clozapine: The ClozaGene Study*. **Schizophr Bull**, 51(2):458-469, [doi:10.1093/schbul/sbae065](https://doi.org/10.1093/schbul/sbae065)
