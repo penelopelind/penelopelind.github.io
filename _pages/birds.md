@@ -1,5 +1,5 @@
 ---
-title: "Birding and Bird Art"
+title: "Bird Art and Photography"
 author_profile: true
 permalink: /birds/
 layout: archive
