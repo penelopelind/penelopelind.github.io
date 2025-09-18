@@ -11,6 +11,7 @@ layout: archive
 
 {% include base_path %}
 
+---
 Journal Articles
 ======
 * van der Veen T, Tesfaye M, Yang JMK, et al. (2025) *Immune, Developmental, and Synaptic Pathways Define Bipolar Disorder Clinical Heterogeneity*. **medRxiv**, doi:10.1101/2025.6.23.25330155
@@ -144,9 +145,11 @@ Journal Articles
 * Schuckit MA, Wilhelmsen K, Smith TL, et al. (2005) *Autosomal linkage analysis for the level of response to alcohol*. **Alcohol Clin Exp Res**, 29(11):1976-82, doi:10.1097/01.alc.187598.82921.27
 * Lind PA, Daniel RM, Monk C, Dunn RV. (2004) *Esterase catalysis of substrate vapour: enzyme activity occurs at very low hydration*. **Biochim Biophys Acta**, 1702(1):103-10, doi:10.1016/j.bbapap.2004.8.5
 
+---
 Book Chapters
 ======
 * Couvy-Duchesne B, Bottani S, Camenen E, et al. (2023) **Main Existing Datasets for Open Brain Research on Humans**. In _Machine Learning for Brain Disorders, edited by O. Colliot_, 753-804
 
+---
 Conference Presentations
 ======
