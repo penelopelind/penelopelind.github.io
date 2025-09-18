@@ -12,7 +12,7 @@ layout: archive
 {% include base_path %}
 
 ---
-<strong><u>Journal Articles</u></strong>
+<span style="font-size:2em;"><strong><u>Journal Articles</u></strong></span>
 * van der Veen T, Tesfaye M, Yang JMK, et al. (2025) *Immune, Developmental, and Synaptic Pathways Define Bipolar Disorder Clinical Heterogeneity*. **medRxiv**, doi:10.1101/2025.6.23.25330155
 * Sepulveda DT, Thorp JG, Lind PA, Martin NG, Medland SE, Mitchell BL. (2025) *Exploring the Relationship between Polygenic Scores, Community-Shared Socioeconomic Indicators and Major Depressive Disorder Outcome*. **Twin Res Hum Genet**, 1-9, doi:10.1017/thg.2025.10011
 * O'Connell KS, Koromina M, van der Veen T, et al. (2025) *Genomics yields biological and phenotypic insights into bipolar disorder*. **Nature**, doi:10.1038/s41586-024-08468-9
@@ -145,9 +145,9 @@ layout: archive
 * Lind PA, Daniel RM, Monk C, Dunn RV. (2004) *Esterase catalysis of substrate vapour: enzyme activity occurs at very low hydration*. **Biochim Biophys Acta**, 1702(1):103-10, doi:10.1016/j.bbapap.2004.8.5
 
 ---
-<u><strong>Book Chapters</u></strong>
+<span style="font-size:2em;"><u><strong>Book Chapters</u></strong></span>
 * Couvy-Duchesne B, Bottani S, Camenen E, et al. (2023) **Main Existing Datasets for Open Brain Research on Humans**. In _Machine Learning for Brain Disorders, edited by O. Colliot_, 753-804
 
 ---
-<u><strong>Conference Presentations</u></strong>
+<span style="font-size:2em;"><u><strong>Conference Presentations</u></strong></span>
 
