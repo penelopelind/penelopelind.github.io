@@ -1,7 +1,7 @@
 ---
-title: "Birding and Bird Art"
+title: "Citizen science"
 author_profile: true
-permalink: /birds/
+permalink: /citizen-science/
 layout: archive
 ---
 
