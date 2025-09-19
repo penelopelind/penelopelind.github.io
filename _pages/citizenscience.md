@@ -33,7 +33,7 @@ I've recorded 3,864 iNaturalist [observations](https://www.inaturalist.org/peopl
 | Singapore       | 237                | 82            |            
 | New Zealand     | 42                 | 33            |
 
-### A summary of my iNaturalist observations
+### A taxonomic summary of my iNaturalist observations
 ![Life List images](/images/LifeList_iNaturalist.png)
 
 Here is a tree view of the observations I've recorded in iNaturalist.
