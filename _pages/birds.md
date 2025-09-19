@@ -40,7 +40,7 @@ I post my bird [art](https://www.instagram.com/drtupps/) and [photography](https
   </figure>
   <figure style="text-align: center;">
     <img src="/images/PiedAvocet.png" alt="Pied Avocet" width="300" />
-    <figcaption style="font-size: 0.9em; color: #555;">ied Avocet</figcaption>
+    <figcaption style="font-size: 0.9em; color: #555;">Pied Avocet</figcaption>
   </figure>
 </div>
 
@@ -48,6 +48,9 @@ I post my bird [art](https://www.instagram.com/drtupps/) and [photography](https
   <img src="/images/Red-tailedHawk.png" alt="Red-tailed Hawk" width="200" />
   <figcaption style="font-size: 0.9em; color: #555;">Red-tailed Hawk</figcaption>
 </figure>
+![Red-tailed Hawk](/images/Red-tailedHawk.png)
+*Red-tailed Hawk*
+
 
 ### And some of my bird photography:
 <p>
