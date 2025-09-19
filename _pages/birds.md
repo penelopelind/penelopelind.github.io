@@ -10,18 +10,6 @@ Outside of being a scientist and a Mum, I love birds. Years before I officially 
 I post my bird [art](https://www.instagram.com/drtupps/) and [photography](https://www.instagram.com/drtupps.birding/) to Instagram.
 
 ### Here is some of my bird art:
-<p>
-  <img src="/images/GreaterRoadrunner.png" alt="Greater Roadrunner" width="300" style="margin-right: 20px;" />
-  <img src="/images/SouthernRufousHrnbill.png" alt="Southern Rufous Hornbill" width="300" />
-</p>
-<p>
-  <img src="/images/InaccesibleRail.png" alt="Inaccessible Rail" width="300" style="margin-right: 20px;" />
-  <img src="/images/PiedAvocet.png" alt="Pied Avocet" width="300" />
-</p>
-<p>
-  <img src="/images/Red-tailedHawk.png" alt="Red-tailed Hawk" width="300" style="margin-right: 20px;" />
-</p>
-
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="text-align: center;">
     <img src="/images/GreaterRoadrunner.png" alt="Greater Roadrunner" width="300" />
@@ -32,7 +20,6 @@ I post my bird [art](https://www.instagram.com/drtupps/) and [photography](https
     <figcaption style="font-size: 0.9em; color: #555;">Southern Rufous Hornbill</figcaption>
   </figure>
 </div>
-
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="text-align: center;">
     <img src="/images/InaccesibleRail.png" alt="Inaccessible Rail" width="300" />
@@ -44,23 +31,7 @@ I post my bird [art](https://www.instagram.com/drtupps/) and [photography](https
   </figure>
 </div>
 
-<figure style="text-align: center;">
-  <img src="/images/Red-tailedHawk.png" alt="Red-tailed Hawk" width="200" />
-  <figcaption style="font-size: 0.9em; color: #555;">Red-tailed Hawk</figcaption>
-</figure>
-![Red-tailed Hawk](/images/Red-tailedHawk.png)
-*Red-tailed Hawk*
-
-
 ### And some of my bird photography:
-<p>
-  <img src="/images/kererū.png" alt="kererū / New Zealand Wood Pigeon" width="300" style="margin-right: 20px;" />
-  <img src="/images/australiasian_shoveler.png" alt="Australasian Shoveler" width="300" />
-</p>
-<p>
-  <img src="/images/powerful_owl.png" alt="Powerful Owl" width="300" style="margin-right: 20px;" />
-</p>
-
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="text-align: center;">
     <img src="/images/kererū.png" alt="kererū / New Zealand Wood Pigeon" width="300" />
@@ -71,7 +42,5 @@ I post my bird [art](https://www.instagram.com/drtupps/) and [photography](https
     <figcaption style="font-size: 0.9em; color: #555;">Australasian Shoveler</figcaption>
   </figure>
 </div>
-<figure style="text-align: center;">
-  <img src="/images/powerful_owl.png" alt="Powerful Owl" width="200"/>
-  <figcaption style="font-size: 0.9em; color: #555;">Powerful Owl</figcaption>
-</figure>
+![Powerful Owl](/images/powerful_owl.png)
+Powerful Owl
