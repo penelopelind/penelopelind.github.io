@@ -22,3 +22,13 @@ My iNaturalist username is [tuppsnz](https://www.inaturalist.org/people/2702800)
 | USA             | 256                | 105           |
 | Singapore       | 237                | 82            |            
 | New Zealand     | 42                 | 33            |
+
+### My eBird observations (647 bird species world-wide)
+
+| Country         | Unique Bird Species     |
+|-----------------|-------------------------|
+| Australia       | 338                     |
+| South Africa    | 153                     |
+| USA             | 112                     |
+| Singapore       | 49                      |          
+| New Zealand     | 61                      |
