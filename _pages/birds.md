@@ -20,3 +20,8 @@ I post my bird [art](https://www.instagram.com/drtupps/) and [photography](https
 ![kererū / New Zealand Wood Pigeon](/images/kererū.png)
 ![Australasian Shoveler](/images/australiasian_shoveler.png)
 ![Powerful Owl](/images/powerful_owl.png)
+
+<p>
+  <img src="/images/kererū.png" alt="kererū / New Zealand Wood Pigeon" width="300" style="margin-right: 20px;" />
+  <img src="/images/australiasian_shoveler.png" alt="Australasian Shoveler" width="300" />
+</p>
