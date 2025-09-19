@@ -138,4 +138,4 @@ Publications
  
 Teaching and Supervision
 ======
-* You can view my teaching and supervision history [here](/teaching-and-supervision/).
+* You can view my teaching and supervision history [here](/students/).
