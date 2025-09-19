@@ -35,11 +35,11 @@ My iNaturalist username is [tuppsnz](https://www.inaturalist.org/people/2702800)
 
 ![Life List images](/images/LifeList_iNaturalist.png)
 
-Here is a tree view of the observations I've recorded in iNaturalist:
+Here is a tree view of the observations I've recorded in iNaturalist.
 ![Tree view of my life list](/images/TreeViewLifeList_iNaturalist.png)
 
 My favourite order of insect to observe are odonata (dragonflies and damselflies) and lepidoptera (butterflies and moths).
 ![Insects](/images/Insects.png)
 
-One of my all time favourite photographs I've taken is of this Graphic Flutterer (*Rhyothemis graphiptera*)
+One of my all time favourite dragonfly photographs I've taken is of this Graphic Flutterer (*Rhyothemis graphiptera*)
 ![Dragonfly](/images/dragonfly.jpeg)
