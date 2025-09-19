@@ -135,9 +135,9 @@ Service and leadership
 ---
 Publications
 ======
-You can view my publications [here](/publications/).
+* You can view my publications [here](/publications/).
  
 ---  
 Teaching and Supervision
 ======
-You can view my teaching and supervision history [here](/teaching-and-supervision/).
+* You can view my teaching and supervision history [here](/teaching-and-supervision/).
