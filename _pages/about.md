@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! Please note this webpage is under construction and is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io).
+Welcome! Please note my academic portfolio is currently under construction and is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io).
 
 I'm a statistical geneticist in the [Psychiatric Genetics group](https://www.qimrb.edu.au/researchers-and-labs/psychiatric-genetics) at QIMR Berghofer in Brisbane, Australia. I'm a molecular biologist by training, and my research is underpinned by a strong foundation in statistical genetic methodologies used in complex trait analysis. 
 
