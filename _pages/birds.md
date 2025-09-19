@@ -22,6 +22,33 @@ I post my bird [art](https://www.instagram.com/drtupps/) and [photography](https
   <img src="/images/Red-tailedHawk.png" alt="Red-tailed Hawk" width="300" style="margin-right: 20px;" />
 </p>
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <figure style="text-align: center;">
+    <img src="/images/GreaterRoadrunner.png" alt="Greater Roadrunner" width="300" />
+    <figcaption style="font-size: 0.9em; color: #555;">Greater Roadrunner</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="/images/SouthernRufousHrnbill.png" alt="Southern Rufous Hornbill" width="300" />
+    <figcaption style="font-size: 0.9em; color: #555;">Southern Rufous Hornbill</figcaption>
+  </figure>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <figure style="text-align: center;">
+    <img src="/images/InaccesibleRail.png" alt="Inaccessible Rail" width="300" />
+    <figcaption style="font-size: 0.9em; color: #555;">Inaccessible Rail</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="/images/PiedAvocet.png" alt="Pied Avocet" width="300" />
+    <figcaption style="font-size: 0.9em; color: #555;">ied Avocet</figcaption>
+  </figure>
+</div>
+
+<figure style="text-align: center;">
+  <img src="/images/Red-tailedHawk.png" alt="Red-tailed Hawk" width="200" />
+  <figcaption style="font-size: 0.9em; color: #555;">Red-tailed Hawk</figcaption>
+</figure>
+
 ### And some of my bird photography:
 <p>
   <img src="/images/kererū.png" alt="kererū / New Zealand Wood Pigeon" width="300" style="margin-right: 20px;" />
@@ -42,6 +69,6 @@ I post my bird [art](https://www.instagram.com/drtupps/) and [photography](https
   </figure>
 </div>
 <figure style="text-align: center;">
-  <img src="/images/powerful_owl.png" alt="Powerful Owl" width="300"/>
-  <figcaption style="font-size: 0.9em; color: #555;">CPowerful Owl</figcaption>
+  <img src="/images/powerful_owl.png" alt="Powerful Owl" width="200"/>
+  <figcaption style="font-size: 0.9em; color: #555;">Powerful Owl</figcaption>
 </figure>
