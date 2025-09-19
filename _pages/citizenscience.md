@@ -11,7 +11,7 @@ I'm active on two biodiversity citizen science platforms -- [eBird](https://ebir
 
 On both of these platforms users record their observations of nature. While eBird is solely focussed on bird sightings and does not require photos or sound recordings, iNaturalist curates observations of all organisms (plants, animals, fungi etc) and requires users to upload photos or sound recordings.
 
-My iNaturalist username is [tuppsnz](https://www.inaturalist.org/people/2702800) and to date I have recorded 3,864 iNaturalist observations of 1,072 unique species. The majority of these are not bird sightings since I primarily share my bird sightings in eBird [here]( https://ebird.org/profile/MTQzNjM0OA).
+I've recorded 3,864 iNaturalist [observations](https://www.inaturalist.org/people/2702800) of 1,072 unique species to date. The majority of these are not bird sightings which I primarily share in eBird [here]( https://ebird.org/profile/MTQzNjM0OA) unless I'm birding outside of Australia.
 
 ### My eBird observations (647 bird species world-wide)
 
@@ -33,6 +33,7 @@ My iNaturalist username is [tuppsnz](https://www.inaturalist.org/people/2702800)
 | Singapore       | 237                | 82            |            
 | New Zealand     | 42                 | 33            |
 
+### A summary of my iNaturalist observations
 ![Life List images](/images/LifeList_iNaturalist.png)
 
 Here is a tree view of the observations I've recorded in iNaturalist.
