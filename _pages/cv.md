@@ -132,12 +132,10 @@ Service and leadership
 * 2015 Queensland Gala Dinner Sub-committee, Australian Society for Medical Research
 * 2014–15	Queensland Committee, Australian Society for Medical Research
 
----
 Publications
 ======
 * You can view my publications [here](/publications/).
  
----  
 Teaching and Supervision
 ======
 * You can view my teaching and supervision history [here](/teaching-and-supervision/).
