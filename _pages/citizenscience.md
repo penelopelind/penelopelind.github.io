@@ -7,7 +7,7 @@ layout: archive
 
 I am also passionate about citizen science, particulalry environmental citizen science. 
 
-I am active on two biodiversity citizen science platforms -- [eBird](https://ebird.org/) and [iNaturalist](https://www.inaturalist.org). 
+I'm active on two biodiversity citizen science platforms -- [eBird](https://ebird.org/) and [iNaturalist](https://www.inaturalist.org). 
 
 On both of these platforms users record their observations of nature. While eBird is solely focussed on bird sightings and does not require photos or sound recordings, iNaturalist curates observations of all organisms (plants, animals, fungi etc) and requires users to upload photos or sound recordings.
 
