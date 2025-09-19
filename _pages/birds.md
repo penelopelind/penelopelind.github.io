@@ -30,3 +30,18 @@ I post my bird [art](https://www.instagram.com/drtupps/) and [photography](https
 <p>
   <img src="/images/powerful_owl.png" alt="Powerful Owl" width="300" style="margin-right: 20px;" />
 </p>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <figure style="text-align: center;">
+    <img src="/images/kererū.png" alt="kererū / New Zealand Wood Pigeon" width="300" />
+    <figcaption style="font-size: 0.9em; color: #555;">kererū / New Zealand Wood Pigeon</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="/images/australiasian_shoveler.png" alt="Australasian Shoveler" width="300" />
+    <figcaption style="font-size: 0.9em; color: #555;">Australasian Shoveler</figcaption>
+  </figure>
+</div>
+<figure style="text-align: center;">
+  <img src="/images/powerful_owl.png" alt="Powerful Owl" width="300"/>
+  <figcaption style="font-size: 0.9em; color: #555;">CPowerful Owl</figcaption>
+</figure>
