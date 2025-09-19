@@ -134,18 +134,21 @@ Service and leadership
 
 Publications
 ======
-  **{% for post in site.publications reversed %}
+  <!-- **{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}**
+  {% endfor %}** -->
   
-Talks
+ You can view my [publications here](/publications/).
+ 
+<!-- Talks
 ======
   **{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}**
+  {% endfor %}** -->
   
 Teaching and Supervision
 ======
-  **{% for post in site.teaching reversed %}
+  <!-- **{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}**
+  {% endfor %}** -->
+You can view my [teaching and supervision history here](/teaching-and-supervision/).
