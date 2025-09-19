@@ -1,7 +1,7 @@
 ---
-title: "Supervision"
+title: "Students"
 author_profile: true
-permalink: /teaching-and-supervision/
+permalink: /students/
 layout: archive
 ---
 
