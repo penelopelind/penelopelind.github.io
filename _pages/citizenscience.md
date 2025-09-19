@@ -33,13 +33,14 @@ My iNaturalist username is [tuppsnz](https://www.inaturalist.org/people/2702800)
 | Singapore       | 237                | 82            |            
 | New Zealand     | 42                 | 33            |
 
-[Life List images](/images/LifeList_iNaturalist.png)
+![Life List images](/images/LifeList_iNaturalist.png)
 
 ![Tree view of my life list](/images/TreeViewLifeList_iNaturalist.png)
 A tree view of the observations I've recorded in iNaturalist.
 
-![Insects](/images/insects.png)
+![Insects](/images/Insects.png)
 My favourite insect taxa are odonata (Dragonglies and Damselflies) and Lepidoptera (butterflies and moths).
 
 One of my all time favourite photographs I've taken is of this Graphic Flutterer (*Rhyothemis graphiptera*)
-![Dragonfly](/images/dragonfly.png)
+![Dragonfly](/images/dragonfly.jpeg)
+Graphic Flutter
