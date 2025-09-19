@@ -12,7 +12,7 @@ I post my bird [art](https://www.instagram.com/drtupps/) and [photography](https
 ### Here is some of my bird art:
 <p>
   <img src="/images/GreaterRoadrunner.png" alt="Greater Roadrunner" width="300" style="margin-right: 20px;" />
-  <img src="images/SouthernRufousHrnbill.png" alt="Southern Rufous Hornbill" width="300" />
+  <img src="/images/SouthernRufousHrnbill.png" alt="Southern Rufous Hornbill" width="300" />
 </p>
 <p>
   <img src="/images/InaccesibleRail.png" alt="Inaccessible Rail" width="300" style="margin-right: 20px;" />
