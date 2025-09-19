@@ -1,5 +1,5 @@
 ---
-title: "Postgraduate Training"
+title: "Training"
 author_profile: true
 permalink: /training/
 layout: archive
@@ -42,7 +42,7 @@ layout: archive
 <span style="font-size:1.5em;"><strong><u>Study Design and Management</u></strong></span>
 * 2024	REDCap 201: Advanced Project Management, Queensland Cyber Infrastructure Foundation (2 hours, June 17)
 * 2024	REDCap 102: Creating Projects, Queensland Cyber Infrastructure Foundation (2 hours, June 12)
-* 2024	REDCap 101 - Getting Started with REDCap, Queensland Cyber Infrastructure Foundation (2 hours, June 5)
+* 2024	REDCap 101: Getting Started with REDCap, Queensland Cyber Infrastructure Foundation (2 hours, June 5)
 * 2023	Consumer Co-design Training for Researchers, Health Translation Queensland (May 3)
 
 
