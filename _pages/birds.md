@@ -10,14 +10,16 @@ Outside of being a scientist and a Mum, I love birds. Years before I officially 
 I post my bird [art](https://www.instagram.com/drtupps/) and [photography](https://www.instagram.com/drtupps.birding/) to Instagram.
 
 ### Here is some of my bird art:
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="/images/Red-tailedHawk.png" alt="Red-tailed Hawk" width="250" />
-  <img src="/images/GreaterRoadrunner.png" alt="Greater Roadrunner" width="250" />
-  <img src="images/SouthernRufousHrnbill.png" alt="Southern Rufous Hornbill" width="250" />
-</div>
+<p>
+  <img src="/images/GreaterRoadrunner.png" alt="Greater Roadrunner" width="300" style="margin-right: 20px;" />
+  <img src="images/SouthernRufousHrnbill.png" alt="Southern Rufous Hornbill" width="300" />
+</p>
 <p>
   <img src="/images/InaccesibleRail.png" alt="Inaccessible Rail" width="300" style="margin-right: 20px;" />
   <img src="/images/PiedAvocet.png" alt="Pied Avocet" width="300" />
+</p>
+<p>
+  <img src="/images/Red-tailedHawk.png" alt="Red-tailed Hawk" width="300" style="margin-right: 20px;" />
 </p>
 
 ### And some of my bird photography:
@@ -25,9 +27,6 @@ I post my bird [art](https://www.instagram.com/drtupps/) and [photography](https
   <img src="/images/kererū.png" alt="kererū / New Zealand Wood Pigeon" width="300" style="margin-right: 20px;" />
   <img src="/images/australiasian_shoveler.png" alt="Australasian Shoveler" width="300" />
 </p>
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="/images/kererū.png" alt="kererū / New Zealand Wood Pigeon" width="250" />
-  <img src="/images/australiasian_shoveler.png" alt="Australasian Shoveler" width="250" />
-  <img src="images/powerful_owl.png" alt="Powerful Owl" width="250" />
-</div>
+<p>
+  <img src="/images/powerful_owl.png" alt="Powerful Owl" width="300" style="margin-right: 20px;" />
+</p>
