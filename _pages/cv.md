@@ -12,9 +12,10 @@ redirect_from:
 Primary Appointment
 ======
 * **2016-present**: Senior Research Officer
-  * Psychiatric Genetics Group, QIMR Berghofer, Brisbane, Australia
+  * Psychiatric Genetics Group, QIMR Berghofer*, Brisbane, Australia
 * **2005-2016**: Research Officer
-  * Psychiatric Genetics Group, QIMR Berghofer, Brisbane, Australia
+  * Psychiatric Genetics Group, QIMR Berghofer*, Brisbane, Australia
+  **Previously named QIMR Berghofer Medical Research Institute*
   
 Education
 ======
@@ -24,7 +25,7 @@ Education
  
 * **Graduate**:
   * Graduate Diploma in Education (Senior Years) with Distinction (Science Education - Biology Extension), Queensland University of Technology, Australia. 
-  * Ph.D in Biological Sciences, University of Waikato, New Zealand. Dissertation Title: '<em>Comparative Characterization of Esterases and Lipases for Biosensors</em>. 
+  * Ph.D. in Biological Sciences, University of Waikato, New Zealand. Dissertation Title: '<em>Comparative Characterization of Esterases and Lipases for Biosensors</em>. 
 
 * **Undergraduate**:
   * First Class Bachelor of Science with Honors in Biochemistry, Victoria University of Wellington, New Zealand
