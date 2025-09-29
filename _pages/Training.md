@@ -6,6 +6,7 @@ layout: archive
 ---
 
 <span style="font-size:1.5em;"><strong><u>Supporting Students</u></strong></span>
+* 2025	Mental Health First Aid Accreditation Refresher Course, University of Queensland (5 hours, October 1)
 * 2025	Ally Training, University of Queensland (6 hours, September 16)
 * 2024	Supporting HDR academic writing issues, Queensland University of Technology (1.5 hours, August 20)
 * 2024	Foundations of HDR Supervision, Queensland University of Technology (1.5 hours, July 8)
@@ -29,6 +30,12 @@ layout: archive
 * 2010	OpenMx Workshop (Advanced Structural Equation Modeling), Brisbane, Australia (August 16-18).
 * 2005	International Workshop on Methodology of Twin and Family Studies (Advanced Course), Institute of Behavioral Genetics, University of Colorado, Boulder, USA (March 7-11).
 
+<span style="font-size:1.5em;"><strong><u>Study Design and Management</u></strong></span>
+* 2024	REDCap 201: Advanced Project Management, Queensland Cyber Infrastructure Foundation (2 hours, June 17)
+* 2024	REDCap 102: Creating Projects, Queensland Cyber Infrastructure Foundation (2 hours, June 12)
+* 2024	REDCap 101: Getting Started with REDCap, Queensland Cyber Infrastructure Foundation (2 hours, June 5)
+* 2023	Consumer Co-design Training for Researchers, Health Translation Queensland (May 3)
+
 <span style="font-size:1.5em;"><strong><u>Leadership</u></strong></span>
 * 2022	Promoting Research Integrity: A Practical Guide for Research Integrity Advisors, Australasian Research Management Society (2 hours, May 4)
 * 2021	Leading and Adapting to Change, Performance, Leadership & Capability Workshop, Queensland University of Technology (3 hours, November 26)
@@ -38,11 +45,5 @@ layout: archive
 * 2021	Mate to Manager, Performance, Leadership & Capability Consultant Workshop, Queensland University of Technology (3 hours, November 11)
 * 2021	Emotional Intelligence, Performance, Leadership & Capability Workshop, Queensland University of Technology (3 hours, November 4)
 * 2021	Leadership Today, Performance, Leadership & Capability Workshop, Queensland University of Technology (3 hours, November 1)
-
-<span style="font-size:1.5em;"><strong><u>Study Design and Management</u></strong></span>
-* 2024	REDCap 201: Advanced Project Management, Queensland Cyber Infrastructure Foundation (2 hours, June 17)
-* 2024	REDCap 102: Creating Projects, Queensland Cyber Infrastructure Foundation (2 hours, June 12)
-* 2024	REDCap 101: Getting Started with REDCap, Queensland Cyber Infrastructure Foundation (2 hours, June 5)
-* 2023	Consumer Co-design Training for Researchers, Health Translation Queensland (May 3)
 
 
