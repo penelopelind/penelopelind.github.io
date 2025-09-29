@@ -25,7 +25,7 @@ layout: archive
 * 2018	Working with MBS and PBS Data, Sax Institute, Sydney, Australia (September 14).
 * 2014	Research Domain Criteria (RDoC): USA National Institute of Mental Health Workshop, Brisbane, Australia (July 27).
 * 2013	International Workshop on Statistical Genetic Methods for Human Complex Traits, Institute of Behavioral Genetics, University of Colorado, Boulder, USA (March 4-8).
-* 2011	2011 Winter School in Mathematical and Computational Biology, Queensland Bioscience Precinct, The University of Queensland, Brisbane, Australia (July 4-8)
+* 2011	Winter School in Mathematical and Computational Biology, Queensland Bioscience Precinct, The University of Queensland, Brisbane, Australia (July 4-8)
 * 2010	OpenMx Workshop (Advanced Structural Equation Modeling), Brisbane, Australia (August 16-18).
 * 2005	International Workshop on Methodology of Twin and Family Studies (Advanced Course), Institute of Behavioral Genetics, University of Colorado, Boulder, USA (March 7-11).
 
