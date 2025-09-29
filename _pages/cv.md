@@ -15,7 +15,7 @@ redirect_from:
   * Psychiatric Genetics Group, QIMR Berghofer*, Brisbane, Australia
 * **2005-2016**: Research Officer
   * Psychiatric Genetics Group, QIMR Berghofer*, Brisbane, Australia
-  **Previously named QIMR Berghofer Medical Research Institute*
+**Previously named QIMR Berghofer Medical Research Institute*
 
 <u>Education</u>
 ======
