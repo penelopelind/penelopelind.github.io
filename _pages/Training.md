@@ -35,9 +35,9 @@ layout: archive
 * 2024	REDCap 102: Creating Projects, Queensland Cyber Infrastructure Foundation (2 hours, June 12)
 * 2024	REDCap 101: Getting Started with REDCap, Queensland Cyber Infrastructure Foundation (2 hours, June 5)
 * 2023	Consumer Co-design Training for Researchers, Health Translation Queensland (May 3)
+* 2022	Promoting Research Integrity: A Practical Guide for Research Integrity Advisors, Australasian Research Management Society (2 hours, May 4)
 
 <span style="font-size:1.5em;"><strong><u>Leadership</u></strong></span>
-* 2022	Promoting Research Integrity: A Practical Guide for Research Integrity Advisors, Australasian Research Management Society (2 hours, May 4)
 * 2021	Leading and Adapting to Change, Performance, Leadership & Capability Workshop, Queensland University of Technology (3 hours, November 26)
 * 2021	Difficult Conversations, Performance, Leadership & Capability Workshop, Queensland University of Technology (3 hours, November 23)
 * 2021	Introduction to Coaching, Performance, Leadership & Capability Workshop, Queensland University of Technology (3 hours, November 18)
