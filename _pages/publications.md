@@ -154,6 +154,7 @@ My publication record to includes 130 peer reviewed publications with >18,000 ci
 
 ---
 <span style="font-size:1.5em;"><strong><u>Conference Presentations (Only first author presentations)</u></strong></span>
+* <u>Lind PA</u>, Medland SE (2024) Continuity of ADHD care experienced by Australian children in the censusADHD Study: An exploration using Medicare record linkage. Paper presented at the 7th Annual Conference of the Australasian ADHD Professionals Association, Brisbane, QLD, Australia (July 25-27).
 * <u>Lind PA</u>, Mitchell B, Byrne E, Medland SE, Martin NG (2023) Polygenic risk scores for lifespan, BMI, and chronic pain predict a medication-based Rx-Risk Comorbidity Index in the Australian Genetics of Depression Study. Paper presented at the 14th International Congress of Human Genetics, Cape Town, South Africa (Feb 22-26).
 * <u>Lind PA</u>, Siskind DJ, Hickie IB, Martin NG, Medland SE (2022) Retrospective reporting of medication discontinuation in the Australian Genetics of Bipolar Disorder Study. Paper presented at the 42nd Annual Society for Mental Health Research Conference, Hobart, Tasmania (March  24-26).
 * <u>Lind PA</u>, Gizer I, Piasecki TM, Slutske WS, Martin NG (2020) Exploring the genetic architecture of disordered gambling and the influence of genetics of risk of gambling on substance use. Paper presented at the virtual 50th Behavior Genetics Association Meeting (June 26).
