@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Primary Appointment
+<u>Primary Appointment</u>
 ======
 * **2016-present**: Senior Research Officer
   * Psychiatric Genetics Group, QIMR Berghofer*, Brisbane, Australia
 * **2005-2016**: Research Officer
   * Psychiatric Genetics Group, QIMR Berghofer*, Brisbane, Australia
   **Previously named QIMR Berghofer Medical Research Institute*
-  
+
 Education
 ======
 * **Postgraduate**:
