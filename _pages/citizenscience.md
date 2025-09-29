@@ -44,3 +44,5 @@ My favourite order of insect to observe are odonata (dragonflies and damselflies
 
 One of my all time favourite dragonfly photographs I've taken is of this Graphic Flutterer (*Rhyothemis graphiptera*)
 ![Dragonfly](/images/dragonfly.jpeg)
+
+*All images on this website are original works by me and are protected by copyright. Please contact me for permission before using them elsewhere*.
