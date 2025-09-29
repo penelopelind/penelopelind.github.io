@@ -5,7 +5,7 @@ permalink: /citizen-science/
 layout: archive
 ---
 
-I am also passionate about citizen science, particulalry environmental citizen science. 
+I am also passionate about citizen science, particularly environmental citizen science. 
 
 I'm active on two biodiversity citizen science platforms -- [eBird](https://ebird.org/) and [iNaturalist](https://www.inaturalist.org). 
 
