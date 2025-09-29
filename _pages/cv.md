@@ -17,7 +17,7 @@ redirect_from:
   * Psychiatric Genetics Group, QIMR Berghofer*, Brisbane, Australia
   **Previously named QIMR Berghofer Medical Research Institute*
 
-Education
+<u>Education</u>
 ======
 * **Postgraduate**:
   * Post-doctoral Fellow in the Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA
@@ -31,25 +31,16 @@ Education
   * First Class Bachelor of Science with Honors in Biochemistry, Victoria University of Wellington, New Zealand
   * Bachelor of Science (BSc) in Genetics & Molecular Biology and Biochemistry, Victoria University of Wellington, New Zealand
 
-Adjunct/Honorary Appointments
+<u>Adjunct/Honorary Appointments</u>
 ======
 * 2019–present: Honorary Associate Professor, School of Biomedical Sciences, University of Queensland, Brisbane, Australia
 * 2019–present: Adjunct Associate Professor, School of Biomedical Sciences, Queensland University of Technology, Brisbane, Australia
 
-Other Current Appointments/Roles
+<u>Publications</u>
 ======
-* 2025-present: Member, LGBTIQA+ Ally Network, The University of Queensland, Brisbane, Australia
-* 2023-present:	Member, Consumer and Community Involvement Working Group, QIMR Berghofer Medical Research Institute
-* 2022-present:	Accredited Mental Health First Aider, University of Queensland, Brisbane, Australia
-* 2022-present:	Member, LGBTIQA+ Ally Network, Queensland University of Technology, Brisbane, Australia
-* 2022-present:	Member, Data Governance Working Group, QIMR Berghofer Medical Research Institute 
-* 2022-present:	Research Integrity Advisor, QIMR Berghofer Medical Research Institute 
-* 2021-present:	RO/SRO Representative, Staff Association Executive, QIMR Berghofer Medical Research Institute
-* 2018-present:	Membership Committee, International Society for Biomedical Research on Alcoholism.
-* 2018-present:	Representative, Work Health and Safety Consultative Forum, QIMR Berghofer Medical Research Institute
-* 2016-present:	Secretary, Post-doctoral Association of QIMR Berghofer Medical Research Institute.
+* You can view my publications [here](/publications/).
 
-Ongoing Research Support
+<u>Ongoing Research Support</u>
 ======
 * MRF2024891, Medical Research Future Fund; 01/06/2023-31/05/2027 ($2,595,260)
   * CIA: Medland, Sarah, My role: co-Chief Investigator
@@ -66,7 +57,7 @@ Ongoing Research Support
   * Title: <em>Australian Pharmacogenomics Diversity Project: Examining the evidence and improving the performance of pharmacogenomics in the Australian context</em>.
   * The goal of this project is to use large-scale data, including clinical and biomarker data, to address evidence gaps that present barriers to the wide-scale adoption of pharmacogenomics-guided pharmacological treatment for MDD within the Australian context. 
 
-Completed Research Support
+<u>Completed Research Support</u>
 ======
 * APP1138514, National Health and Medical Research Council of Australia; 01/01/18-12/30/22 ($1,840,594)
   * CIA: Medland, Sarah, My role: Associate Investigator
@@ -111,7 +102,20 @@ Completed Research Support
   * PI: Lind, Penelope
   * Title: <em>Genetics of alcohol and nicotine addiction</em>.
  
-Service and leadership
+ <u>Other Current Appointments/Roles</u>
+======
+* 2025-present: Member, LGBTIQA+ Ally Network, The University of Queensland, Brisbane, Australia
+* 2023-present:	Member, Consumer and Community Involvement Working Group, QIMR Berghofer Medical Research Institute
+* 2022-present:	Accredited Mental Health First Aider, University of Queensland, Brisbane, Australia
+* 2022-present:	Member, LGBTIQA+ Ally Network, Queensland University of Technology, Brisbane, Australia
+* 2022-present:	Member, Data Governance Working Group, QIMR Berghofer Medical Research Institute 
+* 2022-present:	Research Integrity Advisor, QIMR Berghofer Medical Research Institute 
+* 2021-present:	RO/SRO Representative, Staff Association Executive, QIMR Berghofer Medical Research Institute
+* 2018-present:	Membership Committee, International Society for Biomedical Research on Alcoholism.
+* 2018-present:	Representative, Work Health and Safety Consultative Forum, QIMR Berghofer Medical Research Institute
+* 2016-present:	Secretary, Post-doctoral Association of QIMR Berghofer Medical Research Institute.
+
+<u>Service and leadership</u>
 ======
 * 2025-present Co-Chair, Gambling Working Group, Psychiatric Genomics Consortium.
 * 2024-present Primary Analyst, Genetics Working Group, Enhancing Neuro Imaging Genetics through Meta-Analysis Consortium.
@@ -133,10 +137,6 @@ Service and leadership
 * 2015 Queensland Gala Dinner Sub-committee, Australian Society for Medical Research
 * 2014–15	Queensland Committee, Australian Society for Medical Research
 
-Publications
-======
-* You can view my publications [here](/publications/).
- 
-Teaching and Supervision
+<u>Teaching and Supervision</u>
 ======
 * You can view my teaching and supervision history [here](/students/).
