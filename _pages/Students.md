@@ -21,4 +21,4 @@ layout: archive
 * 2014 Supervised the Research Project of University of Queensland SCIE3001 student.
 * 2006–2009 “Genetic and Genomic Tools and Resources on the Web” Practical. GENT 3001: Human Genetics Module, University of Queensland, Australia.
 
-*For privacy, names of students are not given*
+*For online privacy, names of students are not given*
