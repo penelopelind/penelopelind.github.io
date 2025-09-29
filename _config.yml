@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/penelope.lind.1/bibliography/public/"
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=23019149500"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
