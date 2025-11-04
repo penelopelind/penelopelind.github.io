@@ -12,9 +12,9 @@ redirect_from:
 <u>Primary Appointment</u>
 ======
 * **2016-present**: Senior Research Officer
-  * Psychiatric Genetics Group, QIMR Berghofer*, Brisbane, Australia
+  * Psychiatric Genetics Group, QIMR Berghofer*, Brisbane, QLD, Australia
 * **2005-2016**: Research Officer
-  * Psychiatric Genetics Group, QIMR Berghofer*, Brisbane, Australia
+  * Psychiatric Genetics Group, QIMR Berghofer*, Brisbane, QLD, Australia
 
 **QIMR Berghofer was previously named QIMR Berghofer Medical Research Institute*
 
@@ -34,8 +34,8 @@ redirect_from:
 
 <u>Adjunct/Honorary Appointments</u>
 ======
-* 2019–present: Honorary Associate Professor, School of Biomedical Sciences, Faculty of Health, Medicine and Behavioural Sciences, University of Queensland, Brisbane, Australia
-* 2019–present: Adjunct Associate Professor, School of Biomedical Sciences, Faculty of Health, Queensland University of Technology, Brisbane, Australia
+* 2019–present: Honorary Associate Professor, School of Biomedical Sciences, Faculty of Health, Medicine and Behavioural Sciences, University of Queensland, Brisbane, QLD, Australia
+* 2019–present: Adjunct Associate Professor, School of Biomedical Sciences, Faculty of Health, Queensland University of Technology, Brisbane, QLD, Australia
 
 <u>Publications</u>
 ======
