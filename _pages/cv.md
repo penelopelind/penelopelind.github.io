@@ -34,8 +34,8 @@ redirect_from:
 
 <u>Adjunct/Honorary Appointments</u>
 ======
-* 2019–present: Honorary Associate Professor, School of Biomedical Sciences, University of Queensland, Brisbane, Australia
-* 2019–present: Adjunct Associate Professor, School of Biomedical Sciences, Queensland University of Technology, Brisbane, Australia
+* 2019–present: Honorary Associate Professor, School of Biomedical Sciences, Faculty of Health, Medicine and Behavioural Sciences, University of Queensland, Brisbane, Australia
+* 2019–present: Adjunct Associate Professor, School of Biomedical Sciences, Faculty of Health, Queensland University of Technology, Brisbane, Australia
 
 <u>Publications</u>
 ======
