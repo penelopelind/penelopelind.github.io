@@ -43,6 +43,8 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/penelope.lind.1/bibliography/public/"
   researchgate     : # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=23019149500"
+  inaturalist      : "https://www.inaturalist.org/people/tuppsnz"
+  ebird            : "https://ebird.org/profile/MTQzNjM0OA"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -57,8 +59,6 @@ author:
   linkedin         : "penelope-lind-56319730"
   bluesky          : "penelopelind.bsky.social" # Replace this with you Bluesky username
   instagram        : "drtupps"
-  inaturalist      : "https://www.inaturalist.org/people/tuppsnz"
-  eBird            : "https://ebird.org/profile/MTQzNjM0OA"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
