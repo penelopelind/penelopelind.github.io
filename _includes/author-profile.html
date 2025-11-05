@@ -65,6 +65,12 @@
       {% if author.scopus %}
         <li><a href="{{ author.scopus }}"><i class="ai ai-scopus ai-fw icon-pad-right"></i>Scopus</a></li>
       {% endif %}
+      {% if author.inaturalist %}
+        <li><a href="{{ author.inaturalist }}"><i class="ai ai-scopus ai-fw icon-pad-right"></i>iNaturalist</a></li>
+      {% endif %}
+      {% if author.ebird %}
+        <li><a href="{{ author.ebird }}"><i class="ai ai-scopus ai-fw icon-pad-right"></i>eBird</a></li>
+      {% endif %}
       {% if author.inspire-hep %}
         <li><a href="{{ author.inspire-hep }}"><i class="ai ai-inspire ai-fw icon-pad-right"></i>INSPIRE-HEP</a></li>
       {% endif %}
