@@ -37,7 +37,7 @@ I've recorded 4,062 iNaturalist [observations](https://www.inaturalist.org/peopl
 | Singapore       | 238                | 83            |            
 | New Zealand     | 42                 | 33            |
 
-Here is a map of my Australian and world-wide iNaturalist observations
+#### Maps of my iNaturalist observations
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="text-align: center;">
     <img src="/images/iNat_Oz_5Nov2025.png" alt="Australian iNaturalist observations" width="300" />
