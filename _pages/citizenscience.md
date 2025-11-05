@@ -37,21 +37,15 @@ I've recorded 4,062 iNaturalist [observations](https://www.inaturalist.org/peopl
 | Singapore       | 238                | 83            |            
 | New Zealand     | 42                 | 33            |
 
-Here is a map of my Australian iNaturalist observations:
-![Australian iNaturalist observations](/images/iNat_Oz_5Nov2025.png)
-
-And a map of my iNaturalist observations from around the world:
-![World-wide iNaturalist observations](/images/iNat_World_5Nov2025.png)
-
 Here is a map of my Australian and world-wide iNaturalist observations
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="text-align: center;">
-    <img src="/images/iNat_Oz_5Nov2025.png" alt="Australian observations" width="300" />
-    <figcaption style="font-size: 0.9em; color: #555;">Inaccessible Rail</figcaption>
+    <img src="/images/iNat_Oz_5Nov2025.png" alt="Australian iNaturalist observations" width="300" />
+    <figcaption style="font-size: 0.9em; color: #555;">Australian observations</figcaption>
   </figure>
   <figure style="text-align: center;">
-    <img src="/images/iNat_World_5Nov2025.png" alt="World-wide observations" width="300" />
-    <figcaption style="font-size: 0.9em; color: #555;">Pied Avocet</figcaption>
+    <img src="/images/iNat_World_5Nov2025.png" alt="World-wide iNaturalist observations" width="300" />
+    <figcaption style="font-size: 0.9em; color: #555;">World-wide observations</figcaption>
   </figure>
 </div>
 
