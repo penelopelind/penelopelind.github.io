@@ -17,7 +17,7 @@ On both of these platforms users record their observations of nature. While eBir
 
 I've recorded 4,062 iNaturalist [observations](https://www.inaturalist.org/people/2702800) of 1,150 unique species to date. The majority of these are not bird sightings which I primarily share in eBird [here]( https://ebird.org/profile/MTQzNjM0OA) unless I'm birding outside of Australia.
 
-#### My eBird observations (651 bird species world-wide)
+#### My eBird observations (651 unqiue bird species world-wide)
 
 | Country         | Unique Bird Species     |
 |-----------------|-------------------------|
@@ -40,7 +40,7 @@ I started actively birding in 2019, and my "best" year in terms of bird species 
 | 2019    | 96                      |
 | 2018    | 42                      |
 
-#### My iNaturalist observations
+#### My iNaturalist observations (1,150 unique species world-wide)
 
 | Country         | Total Observations | Unique Species|
 |-----------------|--------------------|---------------|
