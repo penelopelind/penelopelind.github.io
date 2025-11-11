@@ -15,7 +15,7 @@ FluTracking uses the crowdsourced survey data to monitor respiratory illnesses s
 
 On both of these platforms users record their observations of nature. While eBird is solely focussed on bird sightings and does not require photos or sound recordings, iNaturalist curates observations of all organisms (plants, animals, fungi etc) and requires users to upload photos or sound recordings.
 
-I've recorded 4,062 iNaturalist [observations](https://www.inaturalist.org/people/2702800) of 1,150 unique species to date. The majority of these are not bird sightings which I primarily share in eBird [here]( https://ebird.org/profile/MTQzNjM0OA) unless I'm birding outside of Australia.
+I've recorded 4,062 iNaturalist [observations](https://www.inaturalist.org/people/2702800) of 1,149 unique species to date. The majority of these are not bird sightings which I primarily share in eBird [here]( https://ebird.org/profile/MTQzNjM0OA) unless I'm birding outside of Australia.
 
 #### My eBird observations (651 unqiue bird species world-wide)
 
@@ -44,11 +44,11 @@ I started actively birding in 2019, and my "best" year in terms of bird species 
 
 | Country         | Total Observations | Unique Species|
 |-----------------|--------------------|---------------|
-| Australia       | 2197               | 572           |
-| South Africa    | 320                | 144           |
-| USA             | 354                | 135           |
-| Singapore       | 238                | 83            |            
-| New Zealand     | 42                 | 33            |
+| Australia       | 3011               | 761           |
+| South Africa    | 328                | 141           |
+| USA             | 401                | 149           |
+| Singapore       | 269                | 102           |            
+| New Zealand     | 49                 | 39            |
 
 #### Maps of my iNaturalist observations (which mostly overlap with my eBird observations)
 <div style="display: flex; justify-content: center; gap: 20px;">
