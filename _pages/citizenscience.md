@@ -19,13 +19,13 @@ I've recorded 4,062 iNaturalist [observations](https://www.inaturalist.org/peopl
 
 #### My eBird observations (651 unqiue bird species world-wide)
 
-| Country         | Unique Bird Species     |
-|-----------------|-------------------------|
-| Australia       | 338                     |
-| South Africa    | 153                     |
-| USA             | 116                     |
-| Singapore       | 49                      |          
-| New Zealand     | 61                      |
+| Country         | Unique Bird Species     | Favourite Species Observed                             |
+|-----------------|-------------------------|--------------------------------------------------------|
+| Australia       | 338                     | Australian Painted-snipe (**Rostratula australis**)    |
+| South Africa    | 153                     | Common Hoopoe (**Upupa epops**)                        |
+| USA             | 116                     | Hooded Merganser (**Lophodytes cucullatus**)           |
+| Singapore       | 49                      | Oriental Pied-Hornbill (**Anthracoceros albirostris**) |      
+| New Zealand     | 61                      | North Island Robin (**Petroica longipes**)             |
 
 I started actively birding in 2019, and my "best" year in terms of bird species seen was 2023. It was my first time going overseas again since the COVID-19 pandemic started in 2020. It included two work trips and a holiday during which I was lucky to go birding in South Africa, USA and New Zealand!
 
