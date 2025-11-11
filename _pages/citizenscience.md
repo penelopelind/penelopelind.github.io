@@ -17,15 +17,28 @@ On both of these platforms users record their observations of nature. While eBir
 
 I've recorded 4,062 iNaturalist [observations](https://www.inaturalist.org/people/2702800) of 1,150 unique species to date. The majority of these are not bird sightings which I primarily share in eBird [here]( https://ebird.org/profile/MTQzNjM0OA) unless I'm birding outside of Australia.
 
-#### My eBird observations (647 bird species world-wide)
+#### My eBird observations (651 bird species world-wide)
 
 | Country         | Unique Bird Species     |
 |-----------------|-------------------------|
 | Australia       | 338                     |
 | South Africa    | 153                     |
-| USA             | 112                     |
+| USA             | 116                     |
 | Singapore       | 49                      |          
 | New Zealand     | 61                      |
+
+I started actively birding in 2019, and my "best" year in terms of bird species seen was 2023. It was my first time going overseas again since the COVID-19 pandemic started in 2020. It included two work trips and a holiday during which I was lucky to go birding in South Africa, USA and New Zealand!
+
+| Year    | Unique Bird Species     |
+|---------|-------------------------|
+| 2025    | 146                     |
+| 2024    | 132                     |
+| 2023    | 433                     |
+| 2022    | 185                     |
+| 2021    | 244                     |
+| 2020    | 207                     |
+| 2019    | 96                      |
+| 2018    | 42                      |
 
 #### My iNaturalist observations
 
