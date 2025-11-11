@@ -50,7 +50,7 @@ I started actively birding in 2019, and my "best" year in terms of bird species 
 | Singapore       | 238                | 83            |            
 | New Zealand     | 42                 | 33            |
 
-#### Maps of my iNaturalist observations
+#### Maps of my iNaturalist observations (which mostly overlap with my eBird observations)
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="text-align: center;">
     <img src="/images/iNat_Oz_5Nov2025.png" alt="Australian iNaturalist observations" width="300" />
