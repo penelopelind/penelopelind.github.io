@@ -12,7 +12,7 @@ layout: archive
 {% include base_path %}
 
 ---
-My publication record to includes 136 peer reviewed publications with >18,000 citations and an H-index of 54 (Scopus, August 4, 2025). 
+My publication record to includes 136 peer reviewed publications with >19,000 citations and an H-index of 54 (Scopus, December 1, 2025). 
 
 ---
 <span style="font-size:1.5em;"><strong><u>Journal Articles</u></strong></span>
