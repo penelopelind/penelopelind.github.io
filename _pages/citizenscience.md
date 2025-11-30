@@ -68,7 +68,7 @@ I started actively birding in 2019, and my "best" year in terms of bird species 
 Here is a tree view of the observations:
 ![Tree view of my life list](/images/TreeViewLifeList_iNaturalist_2025Dec1.png)
 
-My favourite order of insect to observe are odonata (dragonflies and damselflies) and lepidoptera (butterflies and moths):
+My favourite orders of insect to observe are odonata (dragonflies and damselflies) and lepidoptera (butterflies and moths):
 ![Insects](/images/insects_2025Dec1.png)
 
 One of my all time favourite dragonfly photographs I've taken is of this Graphic Flutterer (*Rhyothemis graphiptera*)
