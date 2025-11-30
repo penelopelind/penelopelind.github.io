@@ -44,7 +44,7 @@ redirect_from:
 <u>Ongoing Research Support</u>
 ======
 * APP2038383, National Health and Medical Research Council of Australia; 01/01/2025-31/12/2026 ($342,840)
-  * CIA: Wallis, Katherine, My role: CIB (co-Chief Investigator)
+  * CIA: Wallis, Katherine. My role: CIB (co-Chief Investigator)
   * Title: <em>Finding the genetic variants influencing antidepressant withdrawal symptoms</em>.
   * This goal of this project is to identify genetic variants associated with antidepressant withdrawal symptoms in order to increase a clinicians' ability to personalise medicine to support safer antidepressant cessation. 
 
