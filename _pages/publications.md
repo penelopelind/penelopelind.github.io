@@ -12,10 +12,11 @@ layout: archive
 {% include base_path %}
 
 ---
-My publication record to includes 131 peer reviewed publications with >19,000 citations and an H-index of 54 (Scopus, December 1, 2025). An additional nine papers published on *medRxiv* and *bioRxiv* in 2024 and 2025 are listed. 
+My publication record to includes 131 peer reviewed publications with >19,000 citations and an H-index of 54 (Scopus, December 1, 2025). An additional ten papers published on *medRxiv* and *bioRxiv* in 2024 and 2025 are listed. 
 
 ---
 <span style="font-size:1.5em;"><strong><u>Journal Articles</u></strong></span>
+* Bartels M, van de Weijer MP, Azcona-Granada N, et al. (2025) *Epigenome-wide association study meta-analysis of wellbeing*. **bioRxiv**, Preprint server, [doi: 10.1101/2025.09.08.674802](doi: https://doi.org/10.1101/2025.09.08.674802)
 * Mitchell BL, Gilroy D, Wallace LA, et al. (2025) *Cohort profile: Cell-omics Resource of the Australian Genetics of Depression Study (AGDS:Cell-o)*. **medRxiv**, Preprint server, [doi: 10.1101/2025.09.16.2533587](doi: https://doi.org/10.1101/2025.09.16.2533587)
 * Syed R, Benca-Bachman CE, Huggett SB, et al. (2025) *CONSILIENCE-GWAS: A Web Resource for Parsed Heritability & Polygenic Score Analysis of Human GWAS Using Heterogeneous Functional Genomics Data*. **medRxiv**, Preprint server, [doi: 10.1101/2025.10.24.25338727](doi: https://doi.org/10.1101/2025.10.24.25338727)
 * Mitchell BL, Skelton M, Wang R, et al. (2025) *Genome-wide meta-analysis identifies genetic risk factors and implicates multiple body systems in panic attacks and disorder*. **medRxiv**, Preprint server, [doi: 10.1101/2025.06.15.25329656](doi: https://doi.org/10.1101/2025.06.15.25329656)
