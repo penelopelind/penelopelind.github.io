@@ -25,7 +25,7 @@ My publication record to includes 134 peer reviewed publications with >19,000 ci
 * Boltz TA, Chu BB, Liao C, et al. (2024) *A blended genome and exome sequencing method captures genetic variation in an unbiased, high-quality, and cost-effective manner*. **bioRxiv**, Preprint server, [doi:10.1101/2024.09.06.611689](https://doi.org/10.1101/2024.09.06.611689)
 
 ---
-<span style="font-size:125em;"><strong><u>Peer-reviewed Journal Articles</u></strong></span>
+<span style="font-size:1.25em;"><strong><u>Peer-reviewed Journal Articles</u></strong></span>
 * Shin M, Crouse JJ, Lin T, et al. (2026) *Atypical depression is associated with a distinct clinical, neurobiological, treatment response and polygenic risk profile*. **Biol Psychiatry**, Epub ahead of print, [doi: 10.1016/j.biopsych.2026.01.003](doi: https://doi.org/10.1016/j.biopsych.2026.01.003)
 * Walker A, Mitchell BL, Lin T, et al. (2026) *Genetic and Phenotypic Associations with Sustained Antidepressant Use in Major Depressive Disorder*. **JAMA Psychiatry**, Epub ahead of print, [doi: 10.1001/jamapsychiatry.2025.4372](doi: https://doi.org/10.1001/jamapsychiatry.2025.4372)
 * Bivol S, Seviiri M, Colodro-Conde L, et al. (2025) *An Exploration of the Genetic Architecture of Pregnancy-Related Linea Nigra and Its Relationship With Pigmentation Phenotypes*. **Twin Res Hum Genet**, Epub ahead of print, [doi: 10.1017/thg.2025.10026](https://doi.org/10.1017/thg.2025.10026)
