@@ -12,7 +12,7 @@ layout: archive
 {% include base_path %}
 
 ---
-My publication record to includes 134 peer reviewed publications with >19,000 citations and an H-index of 54 (Scopus, December 1, 2025). An additional seven papers published on *medRxiv* and *bioRxiv* between 2024 and 2025 are listed. 
+My publication record to includes 134 peer reviewed publications with >19,500 citations and an H-index of 56 (Scopus, January 29, 2026). An additional seven papers published on *medRxiv* and *bioRxiv* between 2024 and 2025 are listed. 
 
 ---
 <span style="font-size:1.25em;"><strong><u>Preprints</u></strong></span>
