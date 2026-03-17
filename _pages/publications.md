@@ -12,7 +12,7 @@ layout: archive
 {% include base_path %}
 
 ---
-My publication record to includes 13136 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, March 17, 2026). An additional five papers published on *medRxiv* and *bioRxiv* in 2025 are listed. 
+My publication record to includes 136 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, March 17, 2026). An additional five papers published on *medRxiv* and *bioRxiv* in 2025 are listed. 
 
 ---
 <span style="font-size:1.25em;"><strong><u>Preprints</u></strong></span>
