@@ -123,7 +123,7 @@ redirect_from:
 
 <u>Service and leadership</u>
 ======
-* 2025-present Co-Chair, Gambling Working Group, Psychiatric Genomics Consortium.
+* 2025-present Co-Chair, International Gambling Genetics Consortium.
 * 2024-present Primary Analyst, Genetics Working Group, Enhancing Neuro Imaging Genetics through Meta-Analysis Consortium.
 * 2022-present Member, Meta-analysis and Phenotypic Working Groups, Musicality Genetics Consortium.
 * 2022-present Member, Analysis Group, Bipolar Disorder Working Group, Psychiatric Genomics Consortium.
