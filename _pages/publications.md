@@ -16,6 +16,8 @@ My publication record to includes 136 peer reviewed publications with >20,000 ca
 
 ---
 <span style="font-size:1.25em;"><strong><u>Preprints</u></strong></span>
+
+* Giblett MJ, <u>Lind PA</u>, Medland SE. (2026) *Autism Traits, ADHD Symptoms, and Stigma as Predictors of Social Camouflaging in Adults from the Australian ASD and ADHD Study*. **PsyArXiv**, Preprint server, [doi: 10.31234/osf.io/u2p54_v1](https://doi.org/10.31234/osf.io/u2p54_v1)
 * Syed R, Benca-Bachman CE, Huggett SB, et al. (2025) *CONSILIENCE-GWAS: A Web Resource for Parsed Heritability & Polygenic Score Analysis of Human GWAS Using Heterogeneous Functional Genomics Data*. **medRxiv**, Preprint server, [doi: 10.1101/2025.10.24.25338727](https://doi.org/10.1101/2025.10.24.25338727)
 * Bartels M, van de Weijer MP, Azcona-Granada N, et al. (2025) *Epigenome-wide association study meta-analysis of wellbeing*. **bioRxiv**, Preprint server, [doi: 10.1101/2025.09.08.674802](https://doi.org/10.1101/2025.09.08.674802)
 * Mitchell BL, Gilroy D, Wallace LA, et al. (2025) *Cohort profile: Cell-omics Resource of the Australian Genetics of Depression Study (AGDS:Cell-o)*. **medRxiv**, Preprint server, [doi: 10.1101/2025.09.16.25335873](https://doi.org/10.1101/2025.09.16.25335873)
