@@ -12,7 +12,7 @@ layout: archive
 {% include base_path %}
 
 ---
-My publication record to includes 136 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, March 17, 2026). An additional six papers published on *medRxiv*, *PsyArXiv* and *bioRxiv* between 2025-2026 are listed. 
+My publication record to date includes 136 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, March 17, 2026). An additional six papers published on *medRxiv*, *PsyArXiv* and *bioRxiv* between 2025-2026 are listed. 
 
 **Featured Articles**:
 * <u>Lind PA</u>, Parker RK, Northwood K, Siskind DJ, Medland SE. (2025) *Clozapine Efficacy and Adverse Drug Reactions Among a Nationwide Study of 1021 Australians Prescribed Clozapine: The ClozaGene Study*. **Schizophr Bull**, 51(2):458-469, [doi:10.1093/schbul/sbae065](https://doi.org/10.1093/schbul/sbae065)
