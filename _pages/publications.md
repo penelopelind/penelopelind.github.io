@@ -14,6 +14,14 @@ layout: archive
 ---
 My publication record to includes 136 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, March 17, 2026). An additional six papers published on *medRxiv*, *PsyArXiv* and *bioRxiv* between 2025-2026 are listed. 
 
+<u>Featured Articles</u>:
+* <u>Lind PA</u>, Parker RK, Northwood K, Siskind DJ, Medland SE. (2025) *Clozapine Efficacy and Adverse Drug Reactions Among a Nationwide Study of 1021 Australians Prescribed Clozapine: The ClozaGene Study*. **Schizophr Bull**, 51(2):458-469, [doi:10.1093/schbul/sbae065](https://doi.org/10.1093/schbul/sbae065)
+* <u>Lind PA</u>, Siskind DJ, Hickie IB, et al. (2023) *Preliminary results from the Australian Genetics of Bipolar Disorder Study: A nation-wide cohort*. **Aust N Z J Psychiatry**, 57(11):1428-1442, [doi:10.1177/00048674231195571](https://doi.org/10.1177/00048674231195571)
+* <u>Lind PA</u>, Medland SE. (2023) *censusADHD Study: An Australian-wide medication-based recruitment study for Attention-Deficit/Hyperactivity Disorder*. **Aust N Z J Psychiatry**, 57(2):252-263, [doi:10.1177/00048674221089234](https://doi.org/10.1177/00048674221089234)
+* Zhou H, Kember RL, Deak JD, Heng X, Toikumo S, Yuan K, <u>Lind PA</u>, et al. (2023) *Multi-ancestry study of the genetics of problematic alcohol use in over 1 million individuals*. **Nat Med**, 29(12):3184-3192, [doi:10.1038/s41591-023-02653-5](https://doi.org/10.1038/s41591-023-02653-5)
+* Grasby KL, Jahanshad N, ^‡^Painter JN, ^‡^Colodro-Conde L, ^‡^Bralten J, ^‡^Hibar DP, ^‡^<u>Lind PA</u>, et al. (2020) *The genetic architecture of the human cerebral cortex*. **Science**, 367(6484), [doi:10.1126/science.aay6690](https://doi.org/10.1126/science.aay6690) 
+[‡second equal author]
+
 ---
 <span style="font-size:1.25em;"><strong><u>Preprints</u></strong></span>
 
@@ -35,7 +43,7 @@ My publication record to includes 136 peer reviewed publications with >20,000 ca
 * Johnson EC, Lai D, Miller AP, et al. (2025) *Multi-ancestral genome-wide association study of clinically defined nicotine dependence reveals strong genetic correlations with other substance use disorders and health-related traits*. **Psychol Med**, 55:e234, [doi:10.1017/S0033291725100883](https://doi.org/10.1017/S0033291725100883)
 * Sepulveda DT, Thorp JG, Lind PA, Martin NG, Medland SE, Mitchell BL. (2025) *Exploring the Relationship between Polygenic Scores, Community-Shared Socioeconomic Indicators and Major Depressive Disorder Outcome*. **Twin Res Hum Genet**, 1-9, [doi:10.1017/thg.2025.10011](https://doi.org/10.1017/thg.2025.10011)
 * O'Connell KS, Koromina M, van der Veen T, et al. (2025) *Genomics yields biological and phenotypic insights into bipolar disorder*. **Nature**, 639:968–975, [doi:10.1038/s41586-024-08468-9](https://doi.org/10.1038/s41586-024-08468-9)
-* Lind PA, Parker RK, Northwood K, Siskind DJ, Medland SE. (2025) *Clozapine Efficacy and Adverse Drug Reactions Among a Nationwide Study of 1021 Australians Prescribed Clozapine: The ClozaGene Study*. **Schizophr Bull**, 51(2):458-469, [doi:10.1093/schbul/sbae065](https://doi.org/10.1093/schbul/sbae065)
+* <u>Lind PA</u>, Parker RK, Northwood K, Siskind DJ, Medland SE. (2025) *Clozapine Efficacy and Adverse Drug Reactions Among a Nationwide Study of 1021 Australians Prescribed Clozapine: The ClozaGene Study*. **Schizophr Bull**, 51(2):458-469, [doi:10.1093/schbul/sbae065](https://doi.org/10.1093/schbul/sbae065)
 * Hatzikotoulas K, Southam L, Stefansdottir L, et al. (2025) *Translational genomics of osteoarthritis in 1,962,069 individuals*. **Nature**, 641(8065):1217-1224, [doi:10.1038/s41586-025-08771-z](https://doi.org/10.1038/s41586-025-08771-z)
 * MDD Working Group et al. (2025) *Trans-ancestry genome-wide study of depression identifies 697 associations implicating cell types and pharmacotherapies*. **Cell**, 188(3):640-652.e9, [doi:10.1016/10.1016/j.cell.2024.12.002](https://doi.org/10.1016/j.cell.2024.12.002)
 * Shin M, Crouse JJ, Byrne EM, et al. (2024) *Changes in sleep patterns in people with a history of depression during the COVID-19 pandemic: a natural experiment*. **BMJ Ment Health**, 27(1), [doi:10.1136/bmjment-2024-301067](https://doi.org/10.1136/bmjment-2024-301067)
