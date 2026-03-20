@@ -19,8 +19,8 @@ My publication record to includes 136 peer reviewed publications with >20,000 ca
 * <u>Lind PA</u>, Siskind DJ, Hickie IB, et al. (2023) *Preliminary results from the Australian Genetics of Bipolar Disorder Study: A nation-wide cohort*. **Aust N Z J Psychiatry**, 57(11):1428-1442, [doi:10.1177/00048674231195571](https://doi.org/10.1177/00048674231195571)
 * <u>Lind PA</u>, Medland SE. (2023) *censusADHD Study: An Australian-wide medication-based recruitment study for Attention-Deficit/Hyperactivity Disorder*. **Aust N Z J Psychiatry**, 57(2):252-263, [doi:10.1177/00048674221089234](https://doi.org/10.1177/00048674221089234)
 * Zhou H, Kember RL, Deak JD, Heng X, Toikumo S, Yuan K, <u>Lind PA</u>, et al. (2023) *Multi-ancestry study of the genetics of problematic alcohol use in over 1 million individuals*. **Nat Med**, 29(12):3184-3192, [doi:10.1038/s41591-023-02653-5](https://doi.org/10.1038/s41591-023-02653-5)
-* Grasby KL, Jahanshad N, <sup>‡</sup>Painter JN, sup>‡</sup>Colodro-Conde L, sup>‡</sup>Bralten J, sup>‡</sup>Hibar DP, sup>‡</sup><u>Lind PA</u>, et al. (2020) *The genetic architecture of the human cerebral cortex*. **Science**, 367(6484), [doi:10.1126/science.aay6690](https://doi.org/10.1126/science.aay6690) 
-[sup>‡</sup>second equal author]
+* Grasby KL, Jahanshad N, <sup>‡</sup>Painter JN, <sup>‡</sup>Colodro-Conde L, <sup>‡</sup>Bralten J, <sup>‡</sup>Hibar DP, <sup>‡</sup><u>Lind PA</u>, et al. (2020) *The genetic architecture of the human cerebral cortex*. **Science**, 367(6484), [doi:10.1126/science.aay6690](https://doi.org/10.1126/science.aay6690) 
+[<sup>‡</sup>second equal author]
 
 ---
 <span style="font-size:1.25em;"><strong><u>Preprints</u></strong></span>
