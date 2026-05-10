@@ -12,7 +12,7 @@ layout: archive
 {% include base_path %}
 
 ---
-My publication record to date includes 137 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, March 17, 2026). An additional six papers published on *medRxiv*, *PsyArXiv* and *bioRxiv* between 2025-2026 are listed. 
+My publication record to date includes 137 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, as of March 17, 2024; projected for 2026). An additional six papers published on *medRxiv*, *PsyArXiv* and *bioRxiv* between 2025-2026 are listed. 
 
 ---
 
