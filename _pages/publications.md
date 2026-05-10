@@ -12,7 +12,7 @@ layout: archive
 {% include base_path %}
 
 ---
-My publication record to date includes 136 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, March 17, 2026). An additional six papers published on *medRxiv*, *PsyArXiv* and *bioRxiv* between 2025-2026 are listed. 
+My publication record to date includes 137 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, March 17, 2026). An additional six papers published on *medRxiv*, *PsyArXiv* and *bioRxiv* between 2025-2026 are listed. 
 
 **Featured Articles**:
 * <u>Lind PA</u>, Parker RK, Northwood K, Siskind DJ, Medland SE. (2025) *Clozapine Efficacy and Adverse Drug Reactions Among a Nationwide Study of 1021 Australians Prescribed Clozapine: The ClozaGene Study*. **Schizophr Bull**, 51(2):458-469, [doi:10.1093/schbul/sbae065](https://doi.org/10.1093/schbul/sbae065)
@@ -34,6 +34,7 @@ My publication record to date includes 136 peer reviewed publications with >20,0
 
 ---
 <span style="font-size:1.25em;"><strong><u>Peer-reviewed Journal Articles</u></strong></span>
+* Kiewa J, <u>Lind PA</u>, Hickie IB, et al. (20206) *Poor mood after oral contraceptive use is associated with increased vulnerability to peripartum depression, premenstrual dysphoric disorder, and higher genetic risk for depression*. **Arch Womens Ment Health**, 29(3):71, [doi:10.1007/s00737-026-01708-z](https://doi.org/10.1007/s00737-026-01708-z)
 * Boltz TA, Chu BB, Liao C, et al. (2024) *A blended genome and exome sequencing method captures genetic variation in an unbiased, high-quality, and cost-effective manner*. **Nat Genet**, in press, [doi:10.1101/2024.09.06.611689](https://doi.org/10.1101/2024.09.06.611689)
 * Jayasinghe GJMSR, Zhu G, Pandeya N, et al. (2026) *A large-scale genome-wide association meta-analysis for nevus count provides direct insights into the genetics of melanoma*. **Nat Commun**, Epub ahead of print, [doi:10.1038/s41467-026-70368-5](https://doi.org/10.1038/s41467-026-70368-5)
 * Walker A, Mitchell BL, Lin T, et al. (2026) *Genetic and Phenotypic Associations with Sustained Antidepressant Use in Major Depressive Disorder*. **JAMA Psychiatry**, Epub ahead of print, [doi: 10.1001/jamapsychiatry.2025.4372](https://doi.org/10.1001/jamapsychiatry.2025.4372)
