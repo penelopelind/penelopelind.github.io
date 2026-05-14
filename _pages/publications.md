@@ -12,7 +12,7 @@ layout: archive
 {% include base_path %}
 
 ---
-My publication record to date includes 137 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, as of March 17, 2024; projected for 2026). An additional six papers published on *medRxiv*, *PsyArXiv* and *bioRxiv* between 2025-2026 are listed. 
+My publication record to date includes 137 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, as of March 17, 2024; projected for 2026). An additional eight papers published on *medRxiv*, *PsyArXiv*, *bioRxiv* and *Research Square* between 2025-2026 are listed. 
 
 ---
 
@@ -26,6 +26,7 @@ My publication record to date includes 137 peer reviewed publications with >20,0
 ---
 <span style="font-size:1.25em;"><strong><u>Preprints</u></strong></span>
 
+* Yocum AK, Fullerton JM, Ashton MM, et al. (2026) *Functional Outcomes in Bipolar Disorder: Cross-Cohort Analyses from the Global Bipolar Cohort*. **Research Square**, Preprint server, [doi:10.21203/rs.3.rs-9390347/v1](https://doi.org/10.21203/rs.3.rs-9390347/v1)
 * Fernando PD, Adsett JM, Parker R, et al. (2026) *The Role of Dog Ownership in Promoting Physical Activity and Well-being Among Individuals with Severe Mental Illness Within the Clozagene Study*. **PsyArXiv**, Preprint server, [doi:10.31234/osf.io/8q47p_v1](https://doi.org/10.31234/osf.io/8q47p_v1)[last equal author]
 * Giblett MJ, Lind PA, Medland SE. (2026) *Autism Traits, ADHD Symptoms, and Stigma as Predictors of Social Camouflaging in Adults from the Australian ASD and ADHD Study*. **PsyArXiv**, Preprint server, [doi:10.31234/osf.io/u2p54_v1](https://doi.org/10.31234/osf.io/u2p54_v1)
 * Syed R, Benca-Bachman CE, Huggett SB, et al. (2025) *CONSILIENCE-GWAS: A Web Resource for Parsed Heritability & Polygenic Score Analysis of Human GWAS Using Heterogeneous Functional Genomics Data*. **medRxiv**, Preprint server, [doi:10.1101/2025.10.24.25338727](https://doi.org/10.1101/2025.10.24.25338727)
