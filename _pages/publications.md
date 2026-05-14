@@ -25,7 +25,6 @@ My publication record to date includes 137 peer reviewed publications with >20,0
 
 ---
 <span style="font-size:1.25em;"><strong><u>Preprints</u></strong></span>
-
 * Yocum AK, Fullerton JM, Ashton MM, et al. (2026) *Functional Outcomes in Bipolar Disorder: Cross-Cohort Analyses from the Global Bipolar Cohort*. **Research Square**, Preprint server, [doi:10.21203/rs.3.rs-9390347/v1](https://doi.org/10.21203/rs.3.rs-9390347/v1)
 * Fernando PD, Adsett JM, Parker R, et al. (2026) *The Role of Dog Ownership in Promoting Physical Activity and Well-being Among Individuals with Severe Mental Illness Within the Clozagene Study*. **PsyArXiv**, Preprint server, [doi:10.31234/osf.io/8q47p_v1](https://doi.org/10.31234/osf.io/8q47p_v1)[last equal author]
 * Giblett MJ, Lind PA, Medland SE. (2026) *Autism Traits, ADHD Symptoms, and Stigma as Predictors of Social Camouflaging in Adults from the Australian ASD and ADHD Study*. **PsyArXiv**, Preprint server, [doi:10.31234/osf.io/u2p54_v1](https://doi.org/10.31234/osf.io/u2p54_v1)
@@ -53,7 +52,6 @@ My publication record to date includes 137 peer reviewed publications with >20,0
 * Shin M, Crouse JJ, Byrne EM, et al. (2024) *Changes in sleep patterns in people with a history of depression during the COVID-19 pandemic: a natural experiment*. **BMJ Ment Health**, 27(1), [doi:10.1136/bmjment-2024-301067](https://doi.org/10.1136/bmjment-2024-301067)
 * Monistrol-Mula A, Felez-Nobrega M, Byrne EM, et al. (2024) *The effect of polygenic liability to mental disorders on COVID-19 outcomes in people with depression: the mediating role of anxiety*. **Psychol Med**, 54(15):1-10, [doi:10.1017/s0033291724001983](https://doi.org/10.1017/s0033291724001983)
 * Kentistou KA, Kaisinger LR, Stankovic S, et al. (2024) *Understanding the genetic complexity of puberty timing across the allele frequency spectrum*. **Nat Genet**, 56(7):1397-1411, [doi:10.1038/s41588-024-01798-4](https://doi.org/10.1038/s41588-024-01798-4)
-* Boltz TA, Chu BB, Liao C, et al. (2024) *A blended genome and exome sequencing method captures genetic variation in an unbiased, high-quality, and cost-effective manner*. **bioRxiv**, Preprint server, [doi:10.1101/2024.09.06.611689](https://doi.org/10.1101/2024.09.06.611689)
 * Zhou H, Kember RL, Deak JD, et al. (2023) *Multi-ancestry study of the genetics of problematic alcohol use in over 1 million individuals*. **Nat Med**, 29(12):3184-3192, [doi:10.1038/s41591-023-02653-5](https://doi.org/10.1038/s41591-023-02653-5)
 * Wang X, Walker A, Revez JA, et al. (2023) *Polygenic risk prediction: why and when out-of-sample prediction R(2) can exceed SNP-based heritability*. **Am J Hum Genet**, 110(7):1207-1215, [doi:10.1016/j.ajhg.2023.06.006](https://doi.org/10.1016/j.ajhg.2023.06.006)
 * Mathieson I, Day FR, Barban N, et al. (2023) *Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus*. **Nat Hum Behav**, 7(5):790-801, [doi:10.1038/s41562-023-01528-6](https://doi.org/10.1038/s41562-023-01528-6)
