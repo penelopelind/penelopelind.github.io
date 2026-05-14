@@ -146,3 +146,7 @@ redirect_from:
 <u>Teaching and Supervision</u>
 ======
 * You can view my teaching and supervision history [here](/students/).
+
+<u>Publications</u>
+======
+* You can view my publications [here](/publications/).
