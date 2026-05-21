@@ -19,6 +19,11 @@ layout: archive
 * 2019	ThinkWell Supervising Research Students Workshop, QIMR Berghofer Medical Research Institute (June 14).
 
 <span style="font-size:1.5em;"><strong><u>Data Analysis</u></strong></span>
+* 2026	Introduction to R, 2.8 CPE credits (NASBA‑approved), DataCamp (March 31).
+* 2026	Introduction to Python, 2.6 CPE credits (NASBA‑approved), DataCamp (March 29).
+* 2026	Structural Equation Modeling with lavaan in R (Statement of Accomplishment), DataCamp (March 29).
+* 2026	Introduction to Data Analytics, Microskill Course, Institute of Applied Technology – Digital, TAFE New South Wales (March 16).
+* 2026	Introduction to SQL, Microskill Course, Institute of Applied Technology – Digital, TAFE New South Wales (March 16).
 * 2021	Introduction to Cost-Effectiveness Analysis in Health, Online Short Course, Health Economics Unit Centre for Health Policy, University of Melbourne (Oct 7-8).
 * 2021	Virtual International Statistical Genetic Methods for Human Complex Traits Workshop, Institute of Behavioral Genetics, University of Colorado, Boulder, USA (June 7-18).
 * 2019	Mendelian Randomization Course, Translational Research Institute, Princess Alexandra Hospital (All-day, November 6).
