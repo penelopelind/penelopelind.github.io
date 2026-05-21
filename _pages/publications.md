@@ -12,7 +12,7 @@ layout: archive
 {% include base_path %}
 
 ---
-My publication record to date includes 137 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, May 19 2026). An additional 11 papers published on *medRxiv*, *PsyArXiv*, *bioRxiv* and *Research Square* are listed. 
+My publication record to date includes 137 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, May 19 2026). An additional 12 papers published on *medRxiv*, *PsyArXiv*, *bioRxiv* and *Research Square* are listed. 
 
 ---
 
@@ -25,6 +25,7 @@ My publication record to date includes 137 peer reviewed publications with >20,0
 
 ---
 <span style="font-size:1.25em;"><strong><u>Preprints</u></strong></span>
+* <u>Lind PA</u>, Hickie AB, Byrne EM, et al. (2026) *Burden of health morbidities and associated health care costs in the Australian Genetics of Depression Study using the medication-based Rx-Risk Comorbidity Index*. **medRxiv**, Preprint server, [doi:10.64898/2026.05.15.26353340](https://doi.org/10.64898/2026.05.15.26353340)
 * Pasman JA, Gerring ZF, Thorp J, et al. (2026) *Genetics of cannabis ever-use and frequency across ancestries implicate novel loci and brain-specific biology*. **medRxiv**, Preprint server, [doi:10.64898/2026.04.25.26351611](https://doi.org/10.64898/2026.04.25.26351611)
 * Yocum AK, Fullerton JM, Ashton MM, et al. (2026) *Functional Outcomes in Bipolar Disorder: Cross-Cohort Analyses from the Global Bipolar Cohort*. **Research Square**, Preprint server, [doi:10.21203/rs.3.rs-9390347/v1](https://doi.org/10.21203/rs.3.rs-9390347/v1)
 * Fernando PD, Adsett JM, Parker R, et al. (2026) *The Role of Dog Ownership in Promoting Physical Activity and Well-being Among Individuals with Severe Mental Illness Within the Clozagene Study*. **PsyArXiv**, Preprint server, [doi:10.31234/osf.io/8q47p_v1](https://doi.org/10.31234/osf.io/8q47p_v1)
