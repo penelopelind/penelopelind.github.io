@@ -37,6 +37,7 @@ My publication record to date includes 137 peer reviewed publications with >20,0
 * Mitchell BL, Gilroy D, Wallace LA, et al. (2025) *Cohort profile: Cell-omics Resource of the Australian Genetics of Depression Study (AGDS:Cell-o)*. **medRxiv**, Preprint server, [doi: 10.1101/2025.09.16.25335873](https://doi.org/10.1101/2025.09.16.25335873)
 * Mitchell BL, Skelton M, Wang R, et al. (2025) *Genome-wide meta-analysis identifies genetic risk factors and implicates multiple body systems in panic attacks and disorder*. **medRxiv**, Preprint server, [doi: 10.1101/2025.06.15.25329656v1](https://doi.org/10.1101/2025.06.15.25329656)
 * van der Veen T, Tesfaye M, Yang JMK, et al. (2025) *Immune, Developmental, and Synaptic Pathways Define Bipolar Disorder Clinical Heterogeneity*. **medRxiv**, Preprint server, [doi:10.1101/2025.06.23.25330155](https://doi.org/10.1101/2025.06.23.25330155)
+* Boltz TA, Chu BB, Liao C et al. (2024) *A blended genome and exome sequencing method captures genetic variation in an unbiased, high-quality, and cost-effective manner*. **bioRxiv**, Preprint server, [doi: 10.1101/2024.09.06.611689](https://doi.org/10.1101/2024.09.06.611689)
 * Morosoli JJ, <u>Lind PA</u>, Spears K, et al. (2022) *Diversity and level of evidence evaluation of commercial pharmacogenomic testing for mental health*. **medRxiv**, Preprint server, [doi:10.1101/2022.11.07.22282051 ](https://doi.org/10.1101/2022.11.07.22282051)
 
 ---
