@@ -12,7 +12,7 @@ layout: archive
 {% include base_path %}
 
 ---
-My publication record to date includes 137 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, May 19 2026). An additional 13 papers published on *medRxiv*, *PsyArXiv*, *bioRxiv* and *Research Square* are listed. 
+My publication record to date includes 137 peer reviewed publications with >20,000 career citations and an H-index of 56 (Scopus, May 19 2026). An additional 15 papers published on *medRxiv*, *PsyArXiv*, *bioRxiv* and *Research Square* are listed. 
 
 ---
 
@@ -25,6 +25,7 @@ My publication record to date includes 137 peer reviewed publications with >20,0
 
 ---
 <span style="font-size:1.25em;"><strong><u>Preprints</u></strong></span>
+* Beck SE, Deak JD, Levey DF, et al. (2026) *Multi-ancestry genome-wide association study and meta-analysis of stimulant use disorder reveals biology and relationships to other psychiatric disorders*. **medRxiv**, Preprint server, [doi:10.64898/2026.06.05.26354997 ](https://doi.org/10.64898/2026.06.05.26354997)
 * Bipolar Disorder Working Group of the Psychiatric Genomics Consortium, van der Veen T, Tesfaye M, et al. (2026) *Genomic dimensions deconstruct the clinical heterogeneity of bipolar disorder*. **medRxiv**, Preprint server, [doi:10.1101/2025.06.23.25330155](https://doi.org/10.1101/2025.06.23.25330155)
 * <u>Lind PA</u>, Hickie AB, Byrne EM, et al. (2026) *Burden of health morbidities and associated health care costs in the Australian Genetics of Depression Study using the medication-based Rx-Risk Comorbidity Index*. **medRxiv**, Preprint server, [doi:10.64898/2026.05.15.26353340](https://doi.org/10.64898/2026.05.15.26353340)
 *  Ferreira A, <u>Lind PA</u>, Moody H etal. (2026) *Characterising the stability of polygenic risk scores: implications for risk stratification*. **medRxiv**, Preprint server, [doi:10.64898/2026.05.17.26353273 ](https://doi.org/10.64898/2026.05.17.26353273 )
