@@ -26,6 +26,7 @@ layout: archive
 * 2019	ThinkWell Supervising Research Students Workshop, QIMR Berghofer Medical Research Institute (2 hours, June 14).
 
 <span style="font-size:1.5em;"><strong><u>Data Analysis</u></strong></span>
+* 2026	Large Language Models for Research, Queensland Cyber Infrastructure Foundation (3 hours, July 30).
 * 2026	Clustering and Unsupervised Methods in Machine Learning, Queensland Cyber Infrastructure Foundation (4 hours, July 10).
 * 2026	R Shiny Essentials, Queensland Cyber Infrastructure Foundation (3 hours, April 1).
 * 2026	Introduction to R, 2.8 CPE credits (NASBA‑approved), DataCamp (March 31).
