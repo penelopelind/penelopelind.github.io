@@ -12,7 +12,7 @@ layout: archive
 {% include base_path %}
 
 ---
-My publication record to date includes 141 peer reviewed publications with >21,000 career citations and an H-index of 58 (Scopus, August 19 2026). An additional 13 preprint papers published on *medRxiv*, *PsyArXiv*, *bioRxiv* and *Research Square* are listed. 
+My publication record to date includes 141 peer reviewed publications with >21,000 career citations and an H-index of 58 (Scopus, August 19 2026). An additional 14 preprint papers published on *medRxiv*, *PsyArXiv*, *bioRxiv* and *Research Square* are listed. 
 
 ---
 
@@ -25,7 +25,8 @@ My publication record to date includes 141 peer reviewed publications with >21,0
 
 ---
 <span style="font-size:1.25em;"><strong><u>Preprints</u></strong></span>
-* Sealock JM, Dowd C, Liao C. (2026) *Analysis of Rare Coding Variation Identifies New Genetic Contributors to Schizophrenia.*. **bioRxiv**, Preprint server, [doi:10.64898/2026.09.18.752670](https://doi.org/10.64898/2026.09.18.752670)
+* Liao C, Ye R, Sealock JM, Boltz T, et al. (2026) *Rare coding variation implicates thirteen genes in bipolar disorder across 232,536 individuals from global populations*. **medRxiv**, Preprint server, [doi:10.64898/2026.09.30.26364416](https://doi.org/10.64898/2026.09.30.26364416)
+* Sealock JM, Dowd C, Liao C, et al. (2026) *Analysis of Rare Coding Variation Identifies New Genetic Contributors to Schizophrenia*. **bioRxiv**, Preprint server, [doi:10.64898/2026.09.18.752670](https://doi.org/10.64898/2026.09.18.752670)
 * Giblett MJ, Jaklich C, Andrew B, <u>Lind PA</u>. (2026) *Generalised anxiety as a mediator linking ADHD symptoms and autistic traits to digital addictions in Australian emerging adults*. **medRxiv**, Preprint server, [doi:10.64898/2026.09.06.26362218](https://doi.org/10.64898/2026.09.06.26362218)
 * Beck SE, Deak JD, Levey DF, et al. (2026) *Multi-ancestry genome-wide association study and meta-analysis of stimulant use disorder reveals biology and relationships to other psychiatric disorders*. **medRxiv**, Preprint server, [doi:10.64898/2026.06.05.26354997 ](https://doi.org/10.64898/2026.06.05.26354997)
 * Bipolar Disorder Working Group of the Psychiatric Genomics Consortium, van der Veen T, Tesfaye M, et al. (2026) *Genomic dimensions deconstruct the clinical heterogeneity of bipolar disorder*. **medRxiv**, Preprint server, [doi:10.1101/2025.06.23.25330155](https://doi.org/10.1101/2025.06.23.25330155)
