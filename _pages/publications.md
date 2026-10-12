@@ -25,7 +25,7 @@ My publication record to date includes 141 peer reviewed publications with >21,0
 
 ---
 <span style="font-size:1.25em;"><strong><u>Preprints</u></strong></span>
-* Liao C, Ye R, Sealock JM, Boltz T, et al. (2026) *Rare coding variation implicates thirteen genes in bipolar disorder across 232,536 individuals from global populations*. **medRxiv**, Preprint server, [doi:10.64898/2026.09.30.26364416](https://doi.org/10.64898/2026.09.30.26364416)
+* Liao C, Ye R, Sealock JM, et al. (2026) *Rare coding variation implicates thirteen genes in bipolar disorder across 232,536 individuals from global populations*. **medRxiv**, Preprint server, [doi:10.64898/2026.09.30.26364416](https://doi.org/10.64898/2026.09.30.26364416)
 * Sealock JM, Dowd C, Liao C, et al. (2026) *Analysis of Rare Coding Variation Identifies New Genetic Contributors to Schizophrenia*. **bioRxiv**, Preprint server, [doi:10.64898/2026.09.18.752670](https://doi.org/10.64898/2026.09.18.752670)
 * Giblett MJ, Jaklich C, Andrew B, <u>Lind PA</u>. (2026) *Generalised anxiety as a mediator linking ADHD symptoms and autistic traits to digital addictions in Australian emerging adults*. **medRxiv**, Preprint server, [doi:10.64898/2026.09.06.26362218](https://doi.org/10.64898/2026.09.06.26362218)
 * Beck SE, Deak JD, Levey DF, et al. (2026) *Multi-ancestry genome-wide association study and meta-analysis of stimulant use disorder reveals biology and relationships to other psychiatric disorders*. **medRxiv**, Preprint server, [doi:10.64898/2026.06.05.26354997 ](https://doi.org/10.64898/2026.06.05.26354997)
