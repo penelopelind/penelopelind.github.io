@@ -12,7 +12,7 @@ layout: archive
 {% include base_path %}
 
 ---
-My publication record to date includes 141 peer reviewed publications with >21,000 career citations and an H-index of 58 (Scopus, August 19 2026). An additional 14 preprint papers published on *medRxiv*, *PsyArXiv*, *bioRxiv* and *Research Square* are listed. 
+My publication record to date includes 141 peer reviewed publications with >22,000 career citations and an H-index of 58 (Scopus, October 26 2026). An additional 14 preprint papers published on *medRxiv*, *PsyArXiv*, *bioRxiv* and *Research Square* are listed. 
 
 ---
 
@@ -35,7 +35,6 @@ My publication record to date includes 141 peer reviewed publications with >21,0
 * Yocum AK, Fullerton JM, Ashton MM, et al. (2026) *Functional Outcomes in Bipolar Disorder: Cross-Cohort Analyses from the Global Bipolar Cohort*. **Research Square**, Preprint server, [doi:10.21203/rs.3.rs-9390347/v1](https://doi.org/10.21203/rs.3.rs-9390347/v1)
 * Fernando PD, Adsett JM, Parker R, et al. (2026) *The Role of Dog Ownership in Promoting Physical Activity and Well-being Among Individuals with Severe Mental Illness Within the Clozagene Study*. **PsyArXiv**, Preprint server, [doi:10.31234/osf.io/8q47p_v1](https://doi.org/10.31234/osf.io/8q47p_v1)
 * Syed R, Benca-Bachman CE, Huggett SB, et al. (2025) *CONSILIENCE-GWAS: A Web Resource for Parsed Heritability & Polygenic Score Analysis of Human GWAS Using Heterogeneous Functional Genomics Data*. **medRxiv**, Preprint server, [doi:10.1101/2025.10.24.25338727](https://doi.org/10.1101/2025.10.24.25338727)
-* Tonini E, Crouse JJ, Shin M, et al. (2026) *Clinical and genetic correlates of a circadian subtype of depression in the Australian Genetics of Depression Study*. **medRxiv**, Preprint server, [doi:10.64898/2026.02.23.26346917v1](https://doi.org/10.64898/2026.02.23.26346917v1)
 * Mitchell BL, Gilroy D, Wallace LA, et al. (2025) *Cohort profile: Cell-omics Resource of the Australian Genetics of Depression Study (AGDS:Cell-o)*. **medRxiv**, Preprint server, [doi:10.1101/2025.09.16.25335873](https://doi.org/10.1101/2025.09.16.25335873)
 * Mitchell BL, Skelton M, Wang R, et al. (2025) *Genome-wide meta-analysis identifies genetic risk factors and implicates multiple body systems in panic attacks and disorder*. **medRxiv**, Preprint server, [doi:10.1101/2025.06.15.25329656v1](https://doi.org/10.1101/2025.06.15.25329656)
 * van der Veen T, Tesfaye M, Yang JMK, et al. (2025) *Immune, Developmental, and Synaptic Pathways Define Bipolar Disorder Clinical Heterogeneity*. **medRxiv**, Preprint server, [doi:10.1101/2025.06.23.25330155](https://doi.org/10.1101/2025.06.23.25330155)
@@ -45,6 +44,7 @@ My publication record to date includes 141 peer reviewed publications with >21,0
 <span style="font-size:1.25em;"><strong><u>Peer-reviewed Journal Articles</u></strong></span>
 
 * Lind PA, Hickie AB, Byrne EM, et al. (2026) *Burden of health morbidities and associated health care costs in the Australian Genetics of Depression Study using the medication-based Rx-Risk Comorbidity Index*. **J Affect Disord**, 414:122397, [doi:10.1016/j.jad.2026.122397](https://doi.org/10.1016/j.jad.2026.122397)
+* Tonini E, Crouse JJ, Shin M, et al. (2026) *Clinical and genetic correlates of a circadian subtype of depression in the Australian Genetics of Depression Study*. **Br J Psych**, 1-10, [doi:10.1192/bjp.2026.10798](https://doi.org/10.1192/bjp.2026.10798)
 * Giblett MJ, Lind PA, Medland SE. (2026) *Autism traits, ADHD symptoms, and stigma as predictors of social camouflaging in adults from the Australian ASD and ADHD study*. **Research in Neurodiversity**, 2:100047, [doi:10.1016/j.rin.2026.100047](https://doi.org/10.1016/j.rin.2026.100047)
 * Shin M, Crouse JJ, Lin T, et al. (2026) *Atypical depression is associated with a distinct clinical, neurobiological, treatment response and polygenic risk profile*. **Biol Psychiatry**, 100(5):525-35, [doi:10.1016/j.biopsych.2026.01.003](https://doi.org/10.1016/j.biopsych.2026.01.003)
 * Boltz TA, Chu BB, Liao C, et al. (2026) *A blended genome and exome sequencing method captures genetic variation in an unbiased and cost-effective manner*. **Nat Genet**, 58(8):1813-21, [doi:10.1038/s41588-026-02669-w](https://doi.org/10.1038/s41588-026-02669-w)
