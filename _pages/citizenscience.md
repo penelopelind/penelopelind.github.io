@@ -42,6 +42,15 @@ I started actively birding in 2019, and my "best" year in terms of bird species 
 | 2019    | 96                      |
 | 2018    | 42                      |
 
+#### An 'Everybird' collage of all my Australian birds (made by Yusuf Taleb)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <figure style="text-align: center;">
+    <img src="/images/everybird-story_Australia-338-cropped.png" alt="Australian life list" width="300" />
+    <figcaption style="font-size: 0.9em; color: #555;">Australian observations</figcaption>
+  </figure>
+</div>
+
+
 #### My iNaturalist observations (1,175 unique species world-wide)
 
 | Country         | Total Observations | Unique Species|
