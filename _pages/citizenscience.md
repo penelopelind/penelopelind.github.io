@@ -17,20 +17,22 @@ On both of these platforms users record their observations of nature. While eBir
 
 I've recorded 4,062 iNaturalist [observations](https://www.inaturalist.org/people/2702800) of 1,149 unique species to date. The majority of these are not bird sightings which I primarily share in eBird [here]( https://ebird.org/profile/MTQzNjM0OA) unless I'm birding outside of Australia.
 
-#### My eBird observations (651 unqiue bird species world-wide)
+#### My eBird observations (671 unqiue bird species world-wide)
 
 | Country         | Unique Bird Species     | Favourite Species Observed                           |
 |-----------------|-------------------------|------------------------------------------------------|
 | Australia       | 338                     | Australian Painted-snipe (*Rostratula australis*)    |
 | South Africa    | 153                     | Common Hoopoe (*Upupa epops*)                        |
 | USA             | 116                     | Hooded Merganser (*Lophodytes cucullatus*)           |
-| Singapore       | 49                      | Oriental Pied-Hornbill (*Anthracoceros albirostris*) |      
 | New Zealand     | 61                      | North Island Robin (*Petroica longipes*)             |
+| Singapore       | 49                      | Oriental Pied-Hornbill (*Anthracoceros albirostris*) |     
+| United Kingdom  | 41                      | Tufted Duck (*Aythya fuligula*)                      |     
 
 I started actively birding in 2019, and my "best" year in terms of bird species seen was 2023. It was my first time going overseas again since the COVID-19 pandemic started in 2020. It included two work trips and a holiday during which I was lucky to go birding in South Africa, USA and New Zealand!
 
 | Year    | Unique Bird Species     |
 |---------|-------------------------|
+| 2026    | 144                     |
 | 2025    | 146                     |
 | 2024    | 132                     |
 | 2023    | 433                     |
@@ -44,11 +46,12 @@ I started actively birding in 2019, and my "best" year in terms of bird species 
 
 | Country         | Total Observations | Unique Species|
 |-----------------|--------------------|---------------|
-| Australia       | 3011               | 761           |
+| Australia       | 3037               | 771           |
 | South Africa    | 328                | 141           |
 | USA             | 401                | 149           |
 | Singapore       | 269                | 102           |            
 | New Zealand     | 49                 | 39            |
+| United Kingdom  | 28                 | 17            |
 
 #### Maps of my iNaturalist observations (which mostly overlap with my eBird observations)
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -57,7 +60,7 @@ I started actively birding in 2019, and my "best" year in terms of bird species 
     <figcaption style="font-size: 0.9em; color: #555;">Australian observations</figcaption>
   </figure>
   <figure style="text-align: center;">
-    <img src="/images/iNat_World_5Nov2025.png" alt="World-wide iNaturalist observations" width="300" />
+    <img src="/images/eBird_World_13Nov2026.png" alt="World-wide iNaturalist observations" width="300" />
     <figcaption style="font-size: 0.9em; color: #555;">World-wide observations</figcaption>
   </figure>
 </div>
