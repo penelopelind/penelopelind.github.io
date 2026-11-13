@@ -42,7 +42,7 @@ I started actively birding in 2019, and my "best" year in terms of bird species 
 | 2019    | 96                      |
 | 2018    | 42                      |
 
-#### My iNaturalist observations (1,150 unique species world-wide)
+#### My iNaturalist observations (1,175 unique species world-wide)
 
 | Country         | Total Observations | Unique Species|
 |-----------------|--------------------|---------------|
